@@ -1,0 +1,3 @@
+# Sem normalizar fim de linha: a vitrine e os ports ficam byte a byte como
+# vieram dos pacotes (o publish.py ja grava o indice com LF).
+* -text

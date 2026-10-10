@@ -1,0 +1,853 @@
+{
+  "format": 1,
+  "mods": [
+    {
+      "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
+      "id": "abusegoblin",
+      "name": "Abuse Goblin",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-abusegoblin-v1.0.0/abusegoblin-1.0.0.bl",
+        "sha256": "833c103fb442129a6cc4b7550578e9530a2e1558a95f22803ad6a989262a513b",
+        "size": 83825
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
+        "id": "abusegoblin",
+        "name": "Abuse Goblin",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          },
+          {
+            "name": "al",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796173238"
+          }
+        ],
+        "category": "Gameplay",
+        "summary": "Hit the Goblin Tinkerer with any weapon to lower his reforge prices.",
+        "updated": "2026-10-08",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
+      "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
+      "id": "disablecorruptionspread",
+      "name": "Begone, Evil! (Disable Evil Biome Spread)",
+      "version": "1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-disablecorruptionspread-v1.0/disablecorruptionspread-1.0.bl",
+        "sha256": "5b323972951d9d7b19666f5558f5e88342d3aac043bfbbec0b53615ea90e86e1",
+        "size": 33105
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/jopojelly.webp",
+        "authors/mantovani.webp"
+      ],
+      "manifest": {
+        "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
+        "id": "disablecorruptionspread",
+        "name": "Begone, Evil! (Disable Evil Biome Spread)",
+        "version": "1.0",
+        "authors": [
+          {
+            "name": "Mantovani",
+            "role": "Bunny Loader port, fixes & optimization",
+            "avatar": "mantovani.webp",
+            "color": "#FFD700"
+          },
+          {
+            "name": "jopojelly",
+            "role": "Original mod creator",
+            "avatar": "jopojelly.webp",
+            "color": "#FFFFFF",
+            "link": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
+          }
+        ],
+        "category": "Utilidade",
+        "summary": "Disables natural Corruption, Crimson and Hallow biome spread by default, with a per-world /spread toggle.",
+        "updated": "2026-10-04",
+        "blVersion": 2,
+        "entry": "main.js",
+        "links": [
+          {
+            "title": "Original mod",
+            "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
+          }
+        ]
+      }
+    },
+    {
+      "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
+      "id": "better-reforge",
+      "name": "Better Reforge",
+      "version": "1.0.1",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-better-reforge-v1.0.1/better-reforge-1.0.1.bl",
+        "sha256": "b1cee9b0b23e60c5a26abe12ed115733b4bbe16171bfb9c455052803cec927a4",
+        "size": 1553690
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "authors/lemon.webp",
+        "assets/preview.png"
+      ],
+      "manifest": {
+        "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
+        "id": "better-reforge",
+        "name": "Better Reforge",
+        "version": "1.0.1",
+        "authors": [
+          {
+            "name": "GST378",
+            "role": "Original Creator",
+            "avatar": "lemon.webp",
+            "color": "#FEFE00",
+            "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
+          }
+        ],
+        "category": "Utilities",
+        "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
+        "updated": "2026-10-04",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
+      "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
+      "id": "bosscursor",
+      "name": "Boss Cursor",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-bosscursor-v1.1.0/bosscursor-1.1.0.bl",
+        "sha256": "05f567352afcf759cd783dc061675d62e7cb161225144338b4b91a122f2e1f77",
+        "size": 107178
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png"
+      ],
+      "manifest": {
+        "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
+        "id": "bosscursor",
+        "name": "Boss Cursor",
+        "version": "1.1.0",
+        "authors": [
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Author"
+          }
+        ],
+        "category": "Utility",
+        "updated": "2026-10-04",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
+      "uid": "95728a1c-1fb7-4ed7-af5b-d12bdec38e46",
+      "id": "dobrodedano",
+      "name": "Dobro de Dano",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-dobrodedano-v1.0.0/dobrodedano-1.0.0.bl",
+        "sha256": "1ce2d058efe8ca4b021baa5f5abc6f895d47c18d425eb764822024b05ef7b47c",
+        "size": 15888
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/bunny-loader.png"
+      ]
+    },
+    {
+      "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
+      "id": "gorilla",
+      "name": "Gorilla",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-gorilla-v1.0.0/gorilla-1.0.0.bl",
+        "sha256": "43ef50769cc11ee71d32d63ecd0859fddfb5669784b9a77eaa4e9687ee6fa3a1",
+        "size": 117907
+      },
+      "files": [
+        "manifest.json",
+        "icon.png"
+      ]
+    },
+    {
+      "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
+      "id": "gravity-dont-flip-screen",
+      "name": "Gravitation Don't Flip the Screen",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-gravity-dont-flip-screen-v1.0.0/gravity-dont-flip-screen-1.0.0.bl",
+        "sha256": "218c21cb06cef9e82d0d09a379e889c02d230d7a56185f52e42c2a1997dbf730",
+        "size": 1169006
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "authors/lemon.webp",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
+        "id": "gravity-dont-flip-screen",
+        "name": "Gravitation Don't Flip the Screen",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Cyrillya",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793971101"
+          },
+          {
+            "name": "GST378",
+            "role": "Bunny Loader Port",
+            "avatar": "lemon.webp",
+            "color": "#FEFE00",
+            "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
+          }
+        ],
+        "category": "QoL",
+        "summary": "This mod makes the gravity inversion effect not flip your screen, only the player flips.",
+        "updated": "2026-10-04",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
+      "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
+      "id": "improvedmovement",
+      "name": "Improved Movement",
+      "version": "1.2.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-improvedmovement-v1.2.0/improvedmovement-1.2.0.bl",
+        "sha256": "b62a317f89da3a30da35536c8dd690ad0b6150ac240b8905172947444d1f97a2",
+        "size": 44922
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png"
+      ],
+      "manifest": {
+        "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
+        "id": "improvedmovement",
+        "name": "Improved Movement",
+        "version": "1.2.0",
+        "authors": [
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Author"
+          }
+        ],
+        "category": "Visual",
+        "summary": "Your head follows the cursor, your body leans as you move, and slimes, zombies and critters lean too.",
+        "updated": "2026-10-08",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
+      "uid": "469b0c4b-acfa-463b-90df-5db222a81351",
+      "id": "instantplatformfallthrough",
+      "name": "Instant Platform Fallthrough",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-instantplatformfallthrough-v1.0.0/instantplatformfallthrough-1.0.0.bl",
+        "sha256": "a4d576ea89b2d132ac19efc452736fd30d507505ebf8fc94429c7f4beeb87db6",
+        "size": 999797
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "license.md",
+        "authors/lemon.webp",
+        "authors/steam.png"
+      ]
+    },
+    {
+      "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
+      "id": "hellomod",
+      "name": "Minishark Turbo",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-hellomod-v1.1.0/hellomod-1.1.0.bl",
+        "sha256": "aa3f4c9490418a5293d458db87f62fce8fe20a41a7dfbe3414ca7d6933a1a9b3",
+        "size": 16857
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/bunny-loader.png"
+      ]
+    },
+    {
+      "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
+      "id": "resized-frames",
+      "name": "Resized Frames",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-resized-frames-v1.0.0/resized-frames-1.0.0.bl",
+        "sha256": "5a88a35d992e35ac1d5fe863b5d0a2afaeef628471678a226ea7710a0a3fbd7f",
+        "size": 1294852
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "authors/lemon.webp"
+      ],
+      "manifest": {
+        "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
+        "id": "resized-frames",
+        "name": "Resized Frames",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "GST378",
+            "role": "Original Creator",
+            "avatar": "lemon.webp",
+            "color": "#FEFE00",
+            "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
+          }
+        ],
+        "category": "Visual",
+        "summary": "Items placed in frames will be drawn at their actual size",
+        "updated": "2026-10-04",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
+      "uid": "15b99fa4-580f-40c6-9a26-78e3928876d7",
+      "id": "semqueda",
+      "name": "Sem Dano de Queda",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-semqueda-v1.0.0/semqueda-1.0.0.bl",
+        "sha256": "393e8bad02b17c7266a8f21f4c11086764150af554fbd1dcf15445239ab39fee",
+        "size": 11298
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/bunny-loader.png"
+      ]
+    },
+    {
+      "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
+      "id": "templopiramide",
+      "name": "Templo Pirâmide",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-templopiramide-v1.1.0/templopiramide-1.1.0.bl",
+        "sha256": "8c005e065796fceabed40143c702c8a83ffd1019eeba482778dd9c35071b3e35",
+        "size": 16392
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md"
+      ]
+    },
+    {
+      "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
+      "id": "terrarchitect",
+      "name": "Terrarchitect",
+      "version": "1.0.3",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-terrarchitect-v1.0.3/terrarchitect-1.0.3.bl",
+        "sha256": "864a18c6c300c014712378caa8859167186011ac8f6d2fa6bd8bf14b625e407b",
+        "size": 2254412
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "authors/0.png",
+        "authors/1.jpeg",
+        "authors/2.png",
+        "authors/steam.png",
+        "assets/logo.png",
+        "assets/items.png"
+      ],
+      "manifest": {
+        "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
+        "id": "terrarchitect",
+        "name": "Terrarchitect",
+        "version": "1.0.3",
+        "authors": [
+          {
+            "name": "Gurgle_Nurgle",
+            "role": "Spritework",
+            "avatar": "0.png",
+            "color": "#F0F0F0",
+            "link": "https://github.com/GurgleNurgle"
+          },
+          {
+            "name": "silent_ptr",
+            "role": "Coding",
+            "avatar": "1.jpeg",
+            "color": "#F0F0F0",
+            "link": "https://github.com/silentptr"
+          },
+          {
+            "name": "Zandberg",
+            "role": "Coding",
+            "avatar": "2.png",
+            "color": "#F0F0F0",
+            "link": "https://github.com/Zandberg-x"
+          }
+        ],
+        "category": "Building",
+        "summary": "Terrarchitect is a furniture / build mod that adds a wide variety of custom-made, high-quality decorational items and blocks to Terraria! It also aims to make some previously ubobtainable or unplacable vanilla items available.",
+        "updated": "2026-10-09",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "theme": {
+          "accent": "#DD8D57",
+          "panel": "#765F43",
+          "text": "#DD8D57",
+          "heading": "#F0F0F0",
+          "button": "#A38259",
+          "buttonText": "#E2D4C7",
+          "background": "banner.png",
+          "backgroundMode": "cover",
+          "backgroundScale": 1,
+          "backgroundDim": 0.3
+        },
+        "links": [
+          {
+            "title": "Subreddit",
+            "url": "https://www.reddit.com/r/Terrarchitect/"
+          },
+          {
+            "title": "Forum",
+            "url": "https://forums.terraria.org/index.php?threads/terrarchitect.95959/"
+          },
+          {
+            "title": "Steam",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2799559538"
+          }
+        ]
+      }
+    },
+    {
+      "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
+      "id": "touhoupets",
+      "name": "Touhou Pets",
+      "version": "1.0.4",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-touhoupets-v1.0.4/touhoupets-1.0.4.bl",
+        "sha256": "bd59c93494638c74161ad48cf215932ff63cd184426a6ff1e4f4e0e715b285a4",
+        "size": 257233
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "license.md",
+        "authors/potato.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
+        "id": "touhoupets",
+        "name": "Touhou Pets",
+        "version": "1.0.4",
+        "authors": [
+          {
+            "name": "中学生",
+            "role": "Original mod (tModLoader)",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820",
+            "avatar": "steam.png"
+          },
+          {
+            "name": "Potato",
+            "role": "Port to Bunny Loader",
+            "avatar": "potato.png",
+            "color": "#E8C170",
+            "link": "https://github.com/JonataOliveiraa"
+          }
+        ],
+        "category": "Pets",
+        "type": "mod",
+        "summary": "Adventure with cute partners: 19 Touhou characters as pets, dropped by the bosses. They animate, react to the world and talk to you and to each other.",
+        "license": "GPL-3.0",
+        "updated": "2026-10-04",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Original mod on the Steam Workshop",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820"
+          },
+          {
+            "title": "Source code (GitHub)",
+            "url": "https://github.com/MineGame223/TouhouLittleFriend"
+          }
+        ]
+      }
+    },
+    {
+      "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
+      "id": "townnpchome",
+      "name": "TownNPC Home",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-townnpchome-v1.0.0/townnpchome-1.0.0.bl",
+        "sha256": "7a85ddfac28b4c50b0ffd0e8cf37bd546c50e41751fb9fae6301dbb8ec74b9a6",
+        "size": 35297
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "authors/animatak.png"
+      ]
+    },
+    {
+      "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
+      "id": "veinminer",
+      "name": "Vein Miner",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-veinminer-v1.1.0/veinminer-1.1.0.bl",
+        "sha256": "a1f8564d9d70cefd98459ee1317c0c3db06f1b6c0ac80712b93cbea64ef6c46f",
+        "size": 48291
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png"
+      ],
+      "manifest": {
+        "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
+        "id": "veinminer",
+        "name": "Vein Miner",
+        "version": "1.1.0",
+        "authors": [
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Author"
+          }
+        ],
+        "category": "Utility",
+        "summary": "Break one ore with your pickaxe and the whole vein comes with it. Add any block with /vein add.",
+        "updated": "2026-10-07",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
+      "uid": "ddc6440e-bcaf-4bc9-9e21-9633b49bd1bf",
+      "id": "vidacheia",
+      "name": "Vida Cheia",
+      "version": "1.0.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-vidacheia-v1.0.2/vidacheia-1.0.2.bl",
+        "sha256": "eb1c681bfce26d8b58b04c578fea1989bb99b1267f3c0d0ed5d9fe84c9ed3e6d",
+        "size": 11021
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/bunny-loader.png"
+      ]
+    },
+    {
+      "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
+      "id": "weaponoutlite",
+      "name": "Weapon Out Lite",
+      "version": "1.0.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-weaponoutlite-v1.0.2/weaponoutlite-1.0.2.bl",
+        "sha256": "b29459b538e8cdd49cd950f6278f676bb37dd01e80787d3bfa75c96884670c70",
+        "size": 160340
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
+        "id": "weaponoutlite",
+        "name": "Weapon Out Lite",
+        "version": "1.0.2",
+        "authors": [
+          {
+            "name": "Flashkirby",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Visual",
+        "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
+        "updated": "2026-10-09",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
+      "uid": "be81ae6a-ac8a-4d23-bcd1-2bb8d056d37d",
+      "id": "wmitf",
+      "name": "Which Mod Is This From?",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-wmitf-v1.0.0/wmitf-1.0.0.bl",
+        "sha256": "ddd402b970bdae51ebc25dc3632c6778e6ec089b09151e4dc42a9e452589cd69",
+        "size": 1001109
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "license.md",
+        "authors/lemon.webp",
+        "authors/steam.png"
+      ]
+    },
+    {
+      "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
+      "id": "wikithis",
+      "name": "Wikithis",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-wikithis-v1.0.0/wikithis-1.0.0.bl",
+        "sha256": "551e726dca4e0a44ff9178ad2c247bc263e636d35557419740dac39832cac3ae",
+        "size": 1451243
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "license.md",
+        "authors/lemon.webp",
+        "authors/steam.png"
+      ]
+    },
+    {
+      "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
+      "id": "wildandhorned",
+      "name": "Wild and Horned",
+      "version": "1.5.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-wildandhorned-v1.5.2/wildandhorned-1.5.2.bl",
+        "sha256": "740b9fd54fef87ca5f583aeed6a0639d861442d5798dc919629a753681bbb065",
+        "size": 182703
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/potato.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
+        "id": "wildandhorned",
+        "name": "Wild and Horned",
+        "version": "1.5.2",
+        "authors": [
+          {
+            "name": "FuzzyGolf291773",
+            "role": "Original mod and pet animations",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158",
+            "avatar": "steam.png"
+          },
+          {
+            "name": "MineGame223 and Group For One",
+            "role": "Touhou Little Friend framework and sprite foundations",
+            "link": "https://github.com/MineGame223/TouhouLittleFriend"
+          },
+          {
+            "name": "Potato",
+            "role": "Port to Bunny Loader and Brazilian Portuguese localization",
+            "avatar": "potato.png",
+            "color": "#E8C170",
+            "link": "https://github.com/JonataOliveiraa"
+          }
+        ],
+        "category": "Pets",
+        "summary": "Sixteen animated Touhou companions with conversations, seven light pets, crafting recipes and Kasen's oni transformations.",
+        "license": "GPL-3.0",
+        "updated": "2026-10-04",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Original Steam Workshop mod",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158"
+          },
+          {
+            "title": "Touhou Little Friend",
+            "url": "https://github.com/MineGame223/TouhouLittleFriend"
+          }
+        ]
+      }
+    },
+    {
+      "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
+      "id": "worldgenpreviewer",
+      "name": "WorldGen Previewer",
+      "version": "1.1.6",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-worldgenpreviewer-v1.1.6/worldgenpreviewer-1.1.6.bl",
+        "sha256": "ccbfc3346fa99cde5b4890a4b3334d16be0c2cd365098ef3a24aad0afa00aede",
+        "size": 112711
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
+        "id": "worldgenpreviewer",
+        "name": "WorldGen Previewer",
+        "version": "1.1.6",
+        "authors": [
+          {
+            "name": "jopojelly",
+            "avatar": "steam.png",
+            "role": "Original Author",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2843258712"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Utility",
+        "summary": "Watch your world being generated step by step: pause, skip steps, repeat the last step or cancel the generation.",
+        "updated": "2026-10-08",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    }
+  ]
+}
