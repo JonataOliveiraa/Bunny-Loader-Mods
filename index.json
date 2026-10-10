@@ -7,7 +7,7 @@
       "name": "Abuse Goblin",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-abusegoblin-v1.0.0/abusegoblin-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-abusegoblin-v1.0.0/abusegoblin-1.0.0.bl",
         "sha256": "833c103fb442129a6cc4b7550578e9530a2e1558a95f22803ad6a989262a513b",
         "size": 83825
       },
@@ -53,7 +53,7 @@
       "name": "Begone, Evil! (Disable Evil Biome Spread)",
       "version": "1.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-disablecorruptionspread-v1.0/disablecorruptionspread-1.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-disablecorruptionspread-v1.0/disablecorruptionspread-1.0.bl",
         "sha256": "5b323972951d9d7b19666f5558f5e88342d3aac043bfbbec0b53615ea90e86e1",
         "size": 33105
       },
@@ -104,7 +104,7 @@
       "name": "Better Reforge",
       "version": "1.0.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-better-reforge-v1.0.1/better-reforge-1.0.1.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-better-reforge-v1.0.1/better-reforge-1.0.1.bl",
         "sha256": "b1cee9b0b23e60c5a26abe12ed115733b4bbe16171bfb9c455052803cec927a4",
         "size": 1553690
       },
@@ -147,7 +147,7 @@
       "name": "Boss Cursor",
       "version": "1.1.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-bosscursor-v1.1.0/bosscursor-1.1.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bosscursor-v1.1.0/bosscursor-1.1.0.bl",
         "sha256": "05f567352afcf759cd783dc061675d62e7cb161225144338b4b91a122f2e1f77",
         "size": 107178
       },
@@ -190,7 +190,7 @@
       "name": "Dobro de Dano",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-dobrodedano-v1.0.0/dobrodedano-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-dobrodedano-v1.0.0/dobrodedano-1.0.0.bl",
         "sha256": "1ce2d058efe8ca4b021baa5f5abc6f895d47c18d425eb764822024b05ef7b47c",
         "size": 15888
       },
@@ -210,7 +210,7 @@
       "name": "Gorilla",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-gorilla-v1.0.0/gorilla-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-gorilla-v1.0.0/gorilla-1.0.0.bl",
         "sha256": "43ef50769cc11ee71d32d63ecd0859fddfb5669784b9a77eaa4e9687ee6fa3a1",
         "size": 117907
       },
@@ -225,7 +225,7 @@
       "name": "Gravitation Don't Flip the Screen",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-gravity-dont-flip-screen-v1.0.0/gravity-dont-flip-screen-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-gravity-dont-flip-screen-v1.0.0/gravity-dont-flip-screen-1.0.0.bl",
         "sha256": "218c21cb06cef9e82d0d09a379e889c02d230d7a56185f52e42c2a1997dbf730",
         "size": 1169006
       },
@@ -274,7 +274,7 @@
       "name": "Improved Movement",
       "version": "1.2.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-improvedmovement-v1.2.0/improvedmovement-1.2.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-improvedmovement-v1.2.0/improvedmovement-1.2.0.bl",
         "sha256": "b62a317f89da3a30da35536c8dd690ad0b6150ac240b8905172947444d1f97a2",
         "size": 44922
       },
@@ -312,7 +312,7 @@
       "name": "Instant Platform Fallthrough",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-instantplatformfallthrough-v1.0.0/instantplatformfallthrough-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-instantplatformfallthrough-v1.0.0/instantplatformfallthrough-1.0.0.bl",
         "sha256": "a4d576ea89b2d132ac19efc452736fd30d507505ebf8fc94429c7f4beeb87db6",
         "size": 999797
       },
@@ -332,7 +332,7 @@
       "name": "Minishark Turbo",
       "version": "1.1.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-hellomod-v1.1.0/hellomod-1.1.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-hellomod-v1.1.0/hellomod-1.1.0.bl",
         "sha256": "aa3f4c9490418a5293d458db87f62fce8fe20a41a7dfbe3414ca7d6933a1a9b3",
         "size": 16857
       },
@@ -352,7 +352,7 @@
       "name": "Resized Frames",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-resized-frames-v1.0.0/resized-frames-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-resized-frames-v1.0.0/resized-frames-1.0.0.bl",
         "sha256": "5a88a35d992e35ac1d5fe863b5d0a2afaeef628471678a226ea7710a0a3fbd7f",
         "size": 1294852
       },
@@ -394,7 +394,7 @@
       "name": "Sem Dano de Queda",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-semqueda-v1.0.0/semqueda-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-semqueda-v1.0.0/semqueda-1.0.0.bl",
         "sha256": "393e8bad02b17c7266a8f21f4c11086764150af554fbd1dcf15445239ab39fee",
         "size": 11298
       },
@@ -414,7 +414,7 @@
       "name": "Templo Pirâmide",
       "version": "1.1.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-templopiramide-v1.1.0/templopiramide-1.1.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-templopiramide-v1.1.0/templopiramide-1.1.0.bl",
         "sha256": "8c005e065796fceabed40143c702c8a83ffd1019eeba482778dd9c35071b3e35",
         "size": 16392
       },
@@ -431,7 +431,7 @@
       "name": "Terrarchitect",
       "version": "1.0.3",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-terrarchitect-v1.0.3/terrarchitect-1.0.3.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-terrarchitect-v1.0.3/terrarchitect-1.0.3.bl",
         "sha256": "864a18c6c300c014712378caa8859167186011ac8f6d2fa6bd8bf14b625e407b",
         "size": 2254412
       },
@@ -520,7 +520,7 @@
       "name": "Touhou Pets",
       "version": "1.0.4",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-touhoupets-v1.0.4/touhoupets-1.0.4.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-touhoupets-v1.0.4/touhoupets-1.0.4.bl",
         "sha256": "bd59c93494638c74161ad48cf215932ff63cd184426a6ff1e4f4e0e715b285a4",
         "size": 257233
       },
@@ -582,7 +582,7 @@
       "name": "TownNPC Home",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-townnpchome-v1.0.0/townnpchome-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-townnpchome-v1.0.0/townnpchome-1.0.0.bl",
         "sha256": "7a85ddfac28b4c50b0ffd0e8cf37bd546c50e41751fb9fae6301dbb8ec74b9a6",
         "size": 35297
       },
@@ -599,7 +599,7 @@
       "name": "Vein Miner",
       "version": "1.1.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-veinminer-v1.1.0/veinminer-1.1.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-veinminer-v1.1.0/veinminer-1.1.0.bl",
         "sha256": "a1f8564d9d70cefd98459ee1317c0c3db06f1b6c0ac80712b93cbea64ef6c46f",
         "size": 48291
       },
@@ -637,7 +637,7 @@
       "name": "Vida Cheia",
       "version": "1.0.2",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-vidacheia-v1.0.2/vidacheia-1.0.2.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-vidacheia-v1.0.2/vidacheia-1.0.2.bl",
         "sha256": "eb1c681bfce26d8b58b04c578fea1989bb99b1267f3c0d0ed5d9fe84c9ed3e6d",
         "size": 11021
       },
@@ -657,7 +657,7 @@
       "name": "Weapon Out Lite",
       "version": "1.0.2",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-weaponoutlite-v1.0.2/weaponoutlite-1.0.2.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-weaponoutlite-v1.0.2/weaponoutlite-1.0.2.bl",
         "sha256": "b29459b538e8cdd49cd950f6278f676bb37dd01e80787d3bfa75c96884670c70",
         "size": 160340
       },
@@ -704,7 +704,7 @@
       "name": "Which Mod Is This From?",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-wmitf-v1.0.0/wmitf-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-wmitf-v1.0.0/wmitf-1.0.0.bl",
         "sha256": "ddd402b970bdae51ebc25dc3632c6778e6ec089b09151e4dc42a9e452589cd69",
         "size": 1001109
       },
@@ -723,7 +723,7 @@
       "name": "Wikithis",
       "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-wikithis-v1.0.0/wikithis-1.0.0.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-wikithis-v1.0.0/wikithis-1.0.0.bl",
         "sha256": "551e726dca4e0a44ff9178ad2c247bc263e636d35557419740dac39832cac3ae",
         "size": 1451243
       },
@@ -743,7 +743,7 @@
       "name": "Wild and Horned",
       "version": "1.5.2",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-wildandhorned-v1.5.2/wildandhorned-1.5.2.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-wildandhorned-v1.5.2/wildandhorned-1.5.2.bl",
         "sha256": "740b9fd54fef87ca5f583aeed6a0639d861442d5798dc919629a753681bbb065",
         "size": 182703
       },
@@ -810,7 +810,7 @@
       "name": "WorldGen Previewer",
       "version": "1.1.6",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader/releases/download/mod-worldgenpreviewer-v1.1.6/worldgenpreviewer-1.1.6.bl",
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-worldgenpreviewer-v1.1.6/worldgenpreviewer-1.1.6.bl",
         "sha256": "ccbfc3346fa99cde5b4890a4b3334d16be0c2cd365098ef3a24aad0afa00aede",
         "size": 112711
       },
