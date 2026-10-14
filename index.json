@@ -372,6 +372,51 @@
       ]
     },
     {
+      "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
+      "id": "lootbeams",
+      "name": "Loot Beams",
+      "version": "1.1.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-lootbeams-v1.1.2/lootbeams-1.1.2.bl",
+        "sha256": "fbb8891babe3ad4840d1ebb5b446a14720d8be06fa4374086188a94f226a162d",
+        "size": 117494
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
+        "id": "lootbeams",
+        "name": "Loot Beams",
+        "version": "1.1.2",
+        "authors": [
+          {
+            "name": "ChemAtDark",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Visual",
+        "summary": "Borderlands-style light beams and glows in each dropped item's rarity color, with beam styles, glow and configurable lists.",
+        "updated": "2026-10-12",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
       "id": "hellomod",
       "name": "Minishark Turbo",
