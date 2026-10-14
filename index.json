@@ -542,6 +542,51 @@
       ]
     },
     {
+      "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
+      "id": "npcunlockannouncer",
+      "name": "NPC Unlock Announcer",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-npcunlockannouncer-v1.0.0/npcunlockannouncer-1.0.0.bl",
+        "sha256": "e998181204d3318d26001e28924fc051fffe54584e7c084124aeb0beddd02292",
+        "size": 684394
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
+        "id": "npcunlockannouncer",
+        "name": "NPC Unlock Announcer",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "EurusK",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631856806"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Interface",
+        "summary": "An RPG-style banner announces every Town NPC and town pet that moves into your world.",
+        "updated": "2026-10-13",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
       "id": "resized-frames",
       "name": "Resized Frames",
