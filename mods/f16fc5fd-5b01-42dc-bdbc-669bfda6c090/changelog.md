@@ -1,18 +1,24 @@
 # Changelog
 
-## 1.0.2
+## 1.1.1
 
-- Spears: fixed the projectile sprite being drawn with the head on the wrong
-  end in the combat and rest poses.
-- Mod Config translated to Spanish, French, German, Italian, Polish, Russian,
-  Chinese (Simplified and Traditional), Japanese and Korean.
+- Fixed the drawing of many items: spears from mods sit in the hand the right
+  way round, and other mods' sprite turns always apply.
+
+## 1.1.0
+
+- New **Turn Sprite** button (and `/wo turn`): turns the held item's sprite in
+  90° steps and saves it for that item, for items drawn the wrong way round.
+  **Clear Override** removes it.
+- Other mods can set it with `Call('RegisterItemSpriteTurn', item, degrees)`.
+- Shorter settings labels and titles in every language.
 
 ## 1.0.1
 
-- Spears: the combat pose uses the projectile sprite, like the original
-  (**Large spears** option under Experimental).
-- While sleeping in a bed, the item is hidden and the pose no longer moves the
-  arms.
+- Fixed the drawing of many items: spears use their projectile sprite in the
+  right hand and direction in the combat and rest poses, like the original,
+  and the item is hidden while sleeping in a bed.
+- Settings translated to 12 languages.
 
 ## 1.0.0
 
@@ -24,4 +30,3 @@
 - Per-item overrides are saved in `ItemOverrides.json`.
 - The original `Call` API (Register*, HidePlayerHeldItem, RegisterCustom*).
 - Synced in multiplayer (visible item, pose and combat timer).
-- Texts in English and Portuguese.

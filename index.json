@@ -940,11 +940,11 @@
       "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
       "id": "weaponoutlite",
       "name": "Weapon Out Lite",
-      "version": "1.0.2",
+      "version": "1.1.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-weaponoutlite-v1.0.2/weaponoutlite-1.0.2.bl",
-        "sha256": "b29459b538e8cdd49cd950f6278f676bb37dd01e80787d3bfa75c96884670c70",
-        "size": 160340
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-weaponoutlite-v1.1.1/weaponoutlite-1.1.1.bl",
+        "sha256": "f054626823eaa3daba2aeeee6493c35c5b2facf8133bde05ba878e8cfa80df63",
+        "size": 168144
       },
       "files": [
         "manifest.json",
@@ -959,26 +959,25 @@
         "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
         "id": "weaponoutlite",
         "name": "Weapon Out Lite",
-        "version": "1.0.2",
+        "version": "1.1.1",
         "authors": [
           {
             "name": "Flashkirby",
             "role": "Original Creator",
             "avatar": "steam.png",
-            "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
           },
           {
             "name": "Animatak_",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
-            "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
         "category": "Visual",
         "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
-        "updated": "2026-10-09",
+        "updated": "2026-10-12",
         "blVersion": 2,
         "entry": "main.js"
       }
