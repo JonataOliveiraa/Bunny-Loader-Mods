@@ -755,6 +755,51 @@
       }
     },
     {
+      "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
+      "id": "tooltipicon",
+      "name": "Tooltip Icon",
+      "version": "1.0.1",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-tooltipicon-v1.0.1/tooltipicon-1.0.1.bl",
+        "sha256": "97b6e48773c5d1dadb0c8f4607f22bcc624385ddf2fa6424e98b5955d9315a35",
+        "size": 106016
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
+        "id": "tooltipicon",
+        "name": "Tooltip Icon",
+        "version": "1.0.1",
+        "authors": [
+          {
+            "name": "Nil256",
+            "avatar": "steam.png",
+            "role": "Original Creator",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Interface",
+        "summary": "Adds a small icon to the left of each item tooltip line: damage, speed, defense, tool power, potions, prefixes and more.",
+        "updated": "2026-10-11",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
       "id": "touhoupets",
       "name": "Touhou Pets",
