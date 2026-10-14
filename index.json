@@ -417,6 +417,66 @@
       ]
     },
     {
+      "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
+      "id": "displaybase",
+      "name": "Item Display Base",
+      "version": "1.0.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-displaybase-v1.0.2/displaybase-1.0.2.bl",
+        "sha256": "a5acb72327b2e4cdac8fff4541706bfe8002eff4201890da0764f28ac11e9299",
+        "size": 290143
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png",
+        "docs/crafting.md",
+        "content/Content/Items/DisplayBaseItem.png",
+        "content/Content/Items/DisplayBaseItemGranite.png"
+      ],
+      "manifest": {
+        "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
+        "id": "displaybase",
+        "name": "Item Display Base",
+        "version": "1.0.2",
+        "authors": [
+          {
+            "name": "Cleyera",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922358421"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          },
+          {
+            "name": "Cavalier",
+            "role": "Chinese localization (original)",
+            "avatar": "steam.png"
+          }
+        ],
+        "category": "Decoration",
+        "summary": "A Display Base to show off any item, with glitter, outline and light effects. Made from marble or granite.",
+        "updated": "2026-10-12",
+        "blVersion": 2,
+        "entry": "main.js",
+        "pages": [
+          {
+            "title": "Crafting",
+            "file": "docs/crafting.md"
+          }
+        ]
+      }
+    },
+    {
       "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
       "id": "lootbeams",
       "name": "Loot Beams",
