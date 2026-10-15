@@ -278,11 +278,11 @@
       "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
       "id": "devtools",
       "name": "Dev Tools",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-devtools-v1.0.0/devtools-1.0.0.bl",
-        "sha256": "921209ec45e1827c2997306209b7e11bea3b31c808592d3dc43880443f6b45fb",
-        "size": 226715
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-devtools-v1.0.1/devtools-1.0.1.bl",
+        "sha256": "a42b55558ad2ceae7a6dba13c62429464b2b179d316d192cffcded3bb76c01ad",
+        "size": 226776
       },
       "files": [
         "manifest.json",
@@ -295,7 +295,7 @@
         "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
         "id": "devtools",
         "name": "Dev Tools",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "authors": [
           {
             "name": "GST378",
