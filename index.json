@@ -48,6 +48,49 @@
       }
     },
     {
+      "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
+      "id": "atmospheric-torches",
+      "name": "Atmospheric Torches",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-atmospheric-torches-v1.0.0/atmospheric-torches-1.0.0.bl",
+        "sha256": "81a591850eab95727ba967cc3c1de18b71c7ddb61b265923e7026c4ecf9dd081",
+        "size": 582742
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.gif",
+        "description.md",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
+        "id": "atmospheric-torches",
+        "name": "Atmospheric Torches",
+        "summary": "This mod simply adds an orange tint to normal torches and tiki torches, with their placed tiles and biome torches getting a slight flicker for atmosphere.",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Orion",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
+          }
+        ],
+        "category": "Visual",
+        "updated": "2026-10-15",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
       "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
       "id": "disablecorruptionspread",
       "name": "Begone, Evil! (Disable Evil Biome Spread)",
