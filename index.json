@@ -443,6 +443,67 @@
       }
     },
     {
+      "uid": "2c4b5895-88ad-30f5-9c0a-ba1a4e0310c1",
+      "id": "fonte-ale-and-wenches",
+      "name": "Fonte Ale and Wenches",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-ale-and-wenches-v1.0.0/fonte-ale-and-wenches-1.0.0.bl",
+        "sha256": "904078cb6ffe792be995986fa1893c1420614616da8e3b06042131b76736525f",
+        "size": 749818
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "2c4b5895-88ad-30f5-9c0a-ba1a4e0310c1",
+        "id": "fonte-ale-and-wenches",
+        "name": "Fonte Ale and Wenches",
+        "version": "1.0.0",
+        "author": "Nate Piekos (Blambot)",
+        "authors": [
+          {
+            "name": "Nate Piekos (Blambot)",
+            "role": "Fonte original",
+            "link": "https://blambot.com"
+          },
+          {
+            "name": "Potato",
+            "role": "Port para o Bunny Loader",
+            "avatar": "potato.png",
+            "color": "#E8C170",
+            "link": "https://github.com/JonataOliveiraa"
+          }
+        ],
+        "type": "font",
+        "category": "Fontes",
+        "summary": "Letra de taverna medieval, desenhada à mão",
+        "license": "Freeware não comercial (Blambot)",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "links": [
+          {
+            "title": "Fonte original",
+            "url": "https://blambot.com"
+          }
+        ],
+        "theme": {
+          "accent": "#D9A066",
+          "panel": "#33221A",
+          "heading": "#FBE6CF"
+        }
+      }
+    },
+    {
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
       "id": "gorilla",
       "name": "Gorilla",
