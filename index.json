@@ -504,6 +504,71 @@
       }
     },
     {
+      "uid": "ca37f1dd-ed7c-3db5-b46c-4c3c958fc54a",
+      "id": "fonte-pescadero",
+      "name": "Fonte Pescadero",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-pescadero-v1.0.0/fonte-pescadero-1.0.0.bl",
+        "sha256": "f33f5335fe6aea5127cdb17778f86e2ffd9513747200496304e045059c0bdf35",
+        "size": 183628
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "ca37f1dd-ed7c-3db5-b46c-4c3c958fc54a",
+        "id": "fonte-pescadero",
+        "name": "Fonte Pescadero",
+        "version": "1.0.0",
+        "author": "Microsoft",
+        "authors": [
+          {
+            "name": "Microsoft",
+            "role": "Fonte original"
+          },
+          {
+            "name": "Mirasein",
+            "role": "Resource pack Custom Fonts (PC)",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
+          },
+          {
+            "name": "Potato",
+            "role": "Port para o Bunny Loader",
+            "avatar": "potato.png",
+            "color": "#E8C170",
+            "link": "https://github.com/JonataOliveiraa"
+          }
+        ],
+        "type": "font",
+        "category": "Fontes",
+        "summary": "Serifada clássica, do resource pack Custom Fonts do PC",
+        "license": "Fonte Pescadero da Microsoft",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "links": [
+          {
+            "title": "Original no Steam Workshop",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
+          }
+        ],
+        "theme": {
+          "accent": "#9FC9E8",
+          "panel": "#1E2A36",
+          "heading": "#E6F3FF"
+        }
+      }
+    },
+    {
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
       "id": "gorilla",
       "name": "Gorilla",
