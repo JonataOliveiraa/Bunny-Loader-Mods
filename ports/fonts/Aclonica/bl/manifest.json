@@ -1,0 +1,41 @@
+{
+  "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
+  "id": "fonte-aclonica",
+  "name": "Fonte Aclonica",
+  "version": "1.0.0",
+  "author": "Astigmatic",
+  "authors": [
+    {
+      "name": "Astigmatic",
+      "role": "Fonte original",
+      "link": "https://fonts.google.com/specimen/Aclonica"
+    },
+    {
+      "name": "Potato",
+      "role": "Port para o Bunny Loader",
+      "avatar": "potato.png",
+      "color": "#E8C170",
+      "link": "https://github.com/JonataOliveiraa"
+    }
+  ],
+  "type": "font",
+  "category": "Fontes",
+  "summary": "Letras arredondadas e grossas, no estilo de cartaz de aventura",
+  "license": "Apache-2.0",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "links": [
+    {
+      "title": "Fonte original",
+      "url": "https://fonts.google.com/specimen/Aclonica"
+    }
+  ],
+  "theme": {
+    "accent": "#FFB347",
+    "panel": "#3A2A1C",
+    "heading": "#FFE8C7"
+  }
+}
