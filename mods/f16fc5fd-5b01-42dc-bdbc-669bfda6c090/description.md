@@ -27,7 +27,9 @@ In **Mod Config** (pause menu):
   one-handed from two-handed weapons, and the giant item size;
 - the item in the player select menu, small yoyos and large spears (projectile
   sprites);
-- the **next group** and **clear override** buttons for the held item.
+- the **next group**, **turn sprite** and **clear override** buttons for the held
+  item. If an item from another mod is drawn the wrong way round, hold it and
+  press **Turn Sprite** until it looks right: the turn is saved for that item.
 
 ## /wo command
 
@@ -38,6 +40,7 @@ The inventory eye button from PC became the `/wo` chat command:
 | `/wo` | shows or hides the held item |
 | `/wo next` | moves the held item to the next group |
 | `/wo pose <name>` | forces a pose on the held item (`/wo pose FloatingBack`) |
+| `/wo turn` | turns the held item's sprite by 90° (saved for that item) |
 | `/wo clear` | removes the held item's override |
 | `/wo reset` | resets all overrides |
 | `/wo info` | the group and pose of the held item |
@@ -55,6 +58,7 @@ const wo = ModLoader.GetMod('weaponoutlite');
 wo.Call('RegisterSpear', ModContent.ItemType(MySpear));           // or RegisterBow, RegisterGun, RegisterStaff...
 wo.Call('RegisterItemHoldPose', ModContent.ItemType(MyItem), 'FloatingOffHandAimed');
 wo.Call('HidePlayerHeldItem', player.whoAmI);                      // hides it this frame
+wo.Call('RegisterItemSpriteTurn', ModContent.ItemType(MySpear), 90); // turns the sprite (0, 90, 180, 270); a player's saved turn wins
 ```
 
 `RegisterCustomItemStyle` with `RegisterCustomDrawDepth`,

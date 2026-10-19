@@ -48,6 +48,49 @@
       }
     },
     {
+      "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
+      "id": "atmospheric-torches",
+      "name": "Atmospheric Torches",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-atmospheric-torches-v1.0.0/atmospheric-torches-1.0.0.bl",
+        "sha256": "81a591850eab95727ba967cc3c1de18b71c7ddb61b265923e7026c4ecf9dd081",
+        "size": 582742
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.gif",
+        "description.md",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
+        "id": "atmospheric-torches",
+        "name": "Atmospheric Torches",
+        "summary": "This mod simply adds an orange tint to normal torches and tiki torches, with their placed tiles and biome torches getting a slight flicker for atmosphere.",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Orion",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
+          }
+        ],
+        "category": "Visual",
+        "updated": "2026-10-15",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
       "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
       "id": "disablecorruptionspread",
       "name": "Begone, Evil! (Disable Evil Biome Spread)",
@@ -96,6 +139,51 @@
             "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ]
+      }
+    },
+    {
+      "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
+      "id": "bestiarydisplays",
+      "name": "Bestiary Displays",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bestiarydisplays-v1.1.0/bestiarydisplays-1.1.0.bl",
+        "sha256": "f0fdf6141a9360a34830c88e323d9d7bbd571cb291f061732c2cd99629d46a30",
+        "size": 165768
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
+        "id": "bestiarydisplays",
+        "name": "Bestiary Displays",
+        "version": "1.1.0",
+        "authors": [
+          {
+            "name": "JaquavionBennet",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3760868784"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Decoration",
+        "summary": "Hologram Projectors that show any unlocked Bestiary creature as an animated, configurable hologram.",
+        "updated": "2026-10-13",
+        "blVersion": 2,
+        "entry": "main.js"
       }
     },
     {
@@ -175,6 +263,95 @@
         ],
         "category": "Utility",
         "updated": "2026-10-04",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
+      "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
+      "id": "coloreddamagetypes",
+      "name": "Colored Damage Types",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-coloreddamagetypes-v1.1.0/coloreddamagetypes-1.1.0.bl",
+        "sha256": "8a07666790141d4cec4db5ac7fce0e92bd87067574d6406ab1baa9cbe7440c33",
+        "size": 104234
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
+        "id": "coloreddamagetypes",
+        "name": "Colored Damage Types",
+        "version": "1.1.0",
+        "authors": [
+          {
+            "name": "PvtFudgepants",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793782057"
+          },
+          {
+            "name": "Animatak_",
+            "role": "Port",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532"
+          }
+        ],
+        "category": "Visual",
+        "summary": "Damage numbers and tooltips in the color of the weapon's class: melee, ranged, magic, summon, sentry, throwing and modded classes.",
+        "updated": "2026-10-12",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
+      "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
+      "id": "devtools",
+      "name": "Dev Tools",
+      "version": "1.0.1",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-devtools-v1.0.1/devtools-1.0.1.bl",
+        "sha256": "a42b55558ad2ceae7a6dba13c62429464b2b179d316d192cffcded3bb76c01ad",
+        "size": 226776
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.jpg",
+        "description.md",
+        "authors/0.png"
+      ],
+      "manifest": {
+        "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
+        "id": "devtools",
+        "name": "Dev Tools",
+        "version": "1.0.1",
+        "authors": [
+          {
+            "name": "GST378",
+            "role": "author",
+            "avatar": "0.png",
+            "color": "#ffffff",
+            "link": "https://youtube.com/@gst_378"
+          }
+        ],
+        "category": "Utilidade",
+        "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
+        "license": "",
+        "updated": "2026-10-15",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -388,6 +565,66 @@
       ]
     },
     {
+      "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
+      "id": "displaybase",
+      "name": "Item Display Base",
+      "version": "1.0.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-displaybase-v1.0.2/displaybase-1.0.2.bl",
+        "sha256": "a5acb72327b2e4cdac8fff4541706bfe8002eff4201890da0764f28ac11e9299",
+        "size": 290143
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png",
+        "docs/crafting.md",
+        "content/Content/Items/DisplayBaseItem.png",
+        "content/Content/Items/DisplayBaseItemGranite.png"
+      ],
+      "manifest": {
+        "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
+        "id": "displaybase",
+        "name": "Item Display Base",
+        "version": "1.0.2",
+        "authors": [
+          {
+            "name": "Cleyera",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922358421"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          },
+          {
+            "name": "Cavalier",
+            "role": "Chinese localization (original)",
+            "avatar": "steam.png"
+          }
+        ],
+        "category": "Decoration",
+        "summary": "A Display Base to show off any item, with glitter, outline and light effects. Made from marble or granite.",
+        "updated": "2026-10-12",
+        "blVersion": 2,
+        "entry": "main.js",
+        "pages": [
+          {
+            "title": "Crafting",
+            "file": "docs/crafting.md"
+          }
+        ]
+      }
+    },
+    {
       "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
       "id": "lightsandshadows",
       "name": "Lights And Shadows",
@@ -428,6 +665,51 @@
       }
     },
     {
+      "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
+      "id": "lootbeams",
+      "name": "Loot Beams",
+      "version": "1.1.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-lootbeams-v1.1.2/lootbeams-1.1.2.bl",
+        "sha256": "fbb8891babe3ad4840d1ebb5b446a14720d8be06fa4374086188a94f226a162d",
+        "size": 117494
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
+        "id": "lootbeams",
+        "name": "Loot Beams",
+        "version": "1.1.2",
+        "authors": [
+          {
+            "name": "ChemAtDark",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Visual",
+        "summary": "Borderlands-style light beams and glows in each dropped item's rarity color, with beam styles, glow and configurable lists.",
+        "updated": "2026-10-12",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
       "id": "hellomod",
       "name": "Minishark Turbo",
@@ -446,6 +728,51 @@
         "license.md",
         "authors/bunny-loader.png"
       ]
+    },
+    {
+      "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
+      "id": "npcunlockannouncer",
+      "name": "NPC Unlock Announcer",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-npcunlockannouncer-v1.0.0/npcunlockannouncer-1.0.0.bl",
+        "sha256": "e998181204d3318d26001e28924fc051fffe54584e7c084124aeb0beddd02292",
+        "size": 684394
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
+        "id": "npcunlockannouncer",
+        "name": "NPC Unlock Announcer",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "EurusK",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631856806"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Interface",
+        "summary": "An RPG-style banner announces every Town NPC and town pet that moves into your world.",
+        "updated": "2026-10-13",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
     },
     {
       "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
@@ -616,6 +943,51 @@
       }
     },
     {
+      "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
+      "id": "tooltipicon",
+      "name": "Tooltip Icon",
+      "version": "1.0.1",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-tooltipicon-v1.0.1/tooltipicon-1.0.1.bl",
+        "sha256": "97b6e48773c5d1dadb0c8f4607f22bcc624385ddf2fa6424e98b5955d9315a35",
+        "size": 106016
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
+        "id": "tooltipicon",
+        "name": "Tooltip Icon",
+        "version": "1.0.1",
+        "authors": [
+          {
+            "name": "Nil256",
+            "avatar": "steam.png",
+            "role": "Original Creator",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "category": "Interface",
+        "summary": "Adds a small icon to the left of each item tooltip line: damage, speed, defense, tool power, potions, prefixes and more.",
+        "updated": "2026-10-11",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
       "id": "touhoupets",
       "name": "Touhou Pets",
@@ -756,11 +1128,11 @@
       "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
       "id": "weaponoutlite",
       "name": "Weapon Out Lite",
-      "version": "1.0.2",
+      "version": "1.1.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-weaponoutlite-v1.0.2/weaponoutlite-1.0.2.bl",
-        "sha256": "b29459b538e8cdd49cd950f6278f676bb37dd01e80787d3bfa75c96884670c70",
-        "size": 160340
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-weaponoutlite-v1.1.1/weaponoutlite-1.1.1.bl",
+        "sha256": "f054626823eaa3daba2aeeee6493c35c5b2facf8133bde05ba878e8cfa80df63",
+        "size": 168144
       },
       "files": [
         "manifest.json",
@@ -775,26 +1147,25 @@
         "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
         "id": "weaponoutlite",
         "name": "Weapon Out Lite",
-        "version": "1.0.2",
+        "version": "1.1.1",
         "authors": [
           {
             "name": "Flashkirby",
             "role": "Original Creator",
             "avatar": "steam.png",
-            "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
           },
           {
             "name": "Animatak_",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
-            "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
         "category": "Visual",
         "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
-        "updated": "2026-10-09",
+        "updated": "2026-10-12",
         "blVersion": 2,
         "entry": "main.js"
       }
