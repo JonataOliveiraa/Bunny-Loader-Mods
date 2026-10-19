@@ -569,6 +569,67 @@
       }
     },
     {
+      "uid": "ad3d1b57-654e-33f3-a5b0-e09ea96484f0",
+      "id": "fonte-ringbearer",
+      "name": "Fonte Ringbearer",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-ringbearer-v1.0.0/fonte-ringbearer-1.0.0.bl",
+        "sha256": "d7c7655d4389d97104935d9e4e419aa9e72701b1f94d2da96dd86c42ca77f0c3",
+        "size": 600258
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "ad3d1b57-654e-33f3-a5b0-e09ea96484f0",
+        "id": "fonte-ringbearer",
+        "name": "Fonte Ringbearer",
+        "version": "1.0.0",
+        "author": "Pete Klassen",
+        "authors": [
+          {
+            "name": "Pete Klassen",
+            "role": "Fonte original",
+            "link": "https://www.dafont.com/ringbearer.font"
+          },
+          {
+            "name": "Potato",
+            "role": "Port para o Bunny Loader",
+            "avatar": "potato.png",
+            "color": "#E8C170",
+            "link": "https://github.com/JonataOliveiraa"
+          }
+        ],
+        "type": "font",
+        "category": "Fontes",
+        "summary": "A letra do logotipo de O Senhor dos Anéis",
+        "license": "Gratuita para uso pessoal",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "links": [
+          {
+            "title": "Fonte original",
+            "url": "https://www.dafont.com/ringbearer.font"
+          }
+        ],
+        "theme": {
+          "accent": "#E8C170",
+          "panel": "#2B2418",
+          "heading": "#FFF1CF"
+        }
+      }
+    },
+    {
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
       "id": "gorilla",
       "name": "Gorilla",
