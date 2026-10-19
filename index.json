@@ -205,6 +205,67 @@
       ]
     },
     {
+      "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
+      "id": "fonte-aclonica",
+      "name": "Fonte Aclonica",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-aclonica-v1.0.0/fonte-aclonica-1.0.0.bl",
+        "sha256": "964f94136ee90d76c98bcc8954bf26fd6398b6d0ca6f653417529ff4a383052f",
+        "size": 986580
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
+        "id": "fonte-aclonica",
+        "name": "Fonte Aclonica",
+        "version": "1.0.0",
+        "author": "Astigmatic",
+        "authors": [
+          {
+            "name": "Astigmatic",
+            "role": "Fonte original",
+            "link": "https://fonts.google.com/specimen/Aclonica"
+          },
+          {
+            "name": "Potato",
+            "role": "Port para o Bunny Loader",
+            "avatar": "potato.png",
+            "color": "#E8C170",
+            "link": "https://github.com/JonataOliveiraa"
+          }
+        ],
+        "type": "font",
+        "category": "Fontes",
+        "summary": "Letras arredondadas e grossas, no estilo de cartaz de aventura",
+        "license": "Apache-2.0",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "links": [
+          {
+            "title": "Fonte original",
+            "url": "https://fonts.google.com/specimen/Aclonica"
+          }
+        ],
+        "theme": {
+          "accent": "#FFB347",
+          "panel": "#3A2A1C",
+          "heading": "#FFE8C7"
+        }
+      }
+    },
+    {
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
       "id": "gorilla",
       "name": "Gorilla",
