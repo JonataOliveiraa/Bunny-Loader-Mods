@@ -1134,6 +1134,41 @@
       ]
     },
     {
+      "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
+      "id": "sharedinventory",
+      "name": "Shared Inventory",
+      "version": "0.2.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-sharedinventory-v0.2.0/sharedinventory-0.2.0.bl",
+        "sha256": "30c808f4d862c82207d4c0de5eac15fe6d3e567b398fada61e1e86bc1da6facd",
+        "size": 251107
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
+        "id": "sharedinventory",
+        "name": "Shared Inventory",
+        "version": "0.2.0",
+        "authors": [
+          {
+            "name": "Potato",
+            "avatar": "potato.png"
+          }
+        ],
+        "category": "Jogabilidade",
+        "summary": "On multiplayer, the host's inventory, armor, pets and life/mana are shared with everyone.",
+        "license": "MIT",
+        "updated": "2026-10-07",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
       "id": "templopiramide",
       "name": "Templo Pirâmide",
