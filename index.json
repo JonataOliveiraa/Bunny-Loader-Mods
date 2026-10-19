@@ -950,11 +950,11 @@
       "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
       "id": "hellomod",
       "name": "Minishark Turbo",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-hellomod-v1.1.0/hellomod-1.1.0.bl",
-        "sha256": "aa3f4c9490418a5293d458db87f62fce8fe20a41a7dfbe3414ca7d6933a1a9b3",
-        "size": 16857
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-hellomod-v1.1.1/hellomod-1.1.1.bl",
+        "sha256": "362908d5d9d9823ba957e5fed1cfa7a7a6114ba5392a6378cf5c1fd9a06f3885",
+        "size": 14373
       },
       "files": [
         "manifest.json",
@@ -964,7 +964,33 @@
         "changelog.md",
         "license.md",
         "authors/bunny-loader.png"
-      ]
+      ],
+      "manifest": {
+        "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
+        "id": "hellomod",
+        "name": "Minishark Turbo",
+        "version": "1.1.1",
+        "authors": [
+          {
+            "name": "Bunny Loader",
+            "role": "Código e arte",
+            "avatar": "bunny-loader.png",
+            "color": "#F9E141"
+          }
+        ],
+        "category": "Armas",
+        "summary": "A Minishark vira uma metralhadora.",
+        "license": "MIT",
+        "updated": "2026-10-19",
+        "featured": true,
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
     },
     {
       "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
