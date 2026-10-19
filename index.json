@@ -327,6 +327,46 @@
       ]
     },
     {
+      "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
+      "id": "lightsandshadows",
+      "name": "Lights And Shadows",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-lightsandshadows-v1.0.0/lightsandshadows-1.0.0.bl",
+        "sha256": "f4633b5c3dbabbfdf4049c05c5f065d7c8f13ed6d5bf6693266eb49670b8d5eb",
+        "size": 264542
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
+        "id": "lightsandshadows",
+        "name": "Lights And Shadows",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "yiyang233",
+            "role": "Original mod and visual assets"
+          },
+          {
+            "name": "Potato",
+            "avatar": "potato.png",
+            "role": "Bunny Loader port"
+          }
+        ],
+        "category": "Visual",
+        "summary": "Sunlight, moonlight, shadow rays and bloom over the world, ported from the tModLoader mod and rebuilt to run on phones.",
+        "updated": "2026-10-19",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
       "id": "hellomod",
       "name": "Minishark Turbo",
