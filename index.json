@@ -967,6 +967,66 @@
       ]
     },
     {
+      "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
+      "id": "mitanpc",
+      "name": "Mita NPC",
+      "version": "1.0.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-mitanpc-v1.0.2/mitanpc-1.0.2.bl",
+        "sha256": "0dd5831fab8820fa20a05e23029678ab8f09d8c8ef97b22311fd89c3e563a3cf",
+        "size": 3061612
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
+        "id": "mitanpc",
+        "name": "Mita NPC",
+        "version": "1.0.2",
+        "upstreamVersion": "0.0.9",
+        "authors": [
+          {
+            "name": "rzc0d3r",
+            "role": "Original mod, code and assets",
+            "link": "https://github.com/rzc00d3r/MitaNPC"
+          },
+          {
+            "name": "Potato",
+            "role": "Bunny Loader port",
+            "avatar": "potato.png",
+            "color": "#E8C170"
+          }
+        ],
+        "category": "NPCs",
+        "summary": "Four MiSide town NPCs with voiced dialogue, shops, weapons, pets and permanent combat manuals.",
+        "license": "MIT",
+        "updated": "2026-10-19",
+        "blVersion": 2,
+        "entry": "main.js",
+        "links": [
+          {
+            "title": "Original Workshop mod",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063"
+          },
+          {
+            "title": "Original source code",
+            "url": "https://github.com/rzc00d3r/MitaNPC"
+          }
+        ],
+        "theme": {
+          "accent": "#B971F2",
+          "panel": "#272038",
+          "heading": "#F0E2FF"
+        }
+      }
+    },
+    {
       "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
       "id": "npcunlockannouncer",
       "name": "NPC Unlock Announcer",
