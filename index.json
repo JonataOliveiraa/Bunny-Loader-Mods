@@ -1859,6 +1859,45 @@
         "blVersion": 2,
         "entry": "main.js"
       }
+    },
+    {
+      "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
+      "id": "extendedzoom",
+      "name": "Zoom Tweaks",
+      "version": "0.6.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-extendedzoom-v0.6.2/extendedzoom-0.6.2.bl",
+        "sha256": "6777076cccdffb2c125446c1249f6751251d89a5b526c680e81d43f186dcf9b8",
+        "size": 8613
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md"
+      ],
+      "manifest": {
+        "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
+        "id": "extendedzoom",
+        "name": "Zoom Tweaks",
+        "version": "0.6.2",
+        "authors": [
+          {
+            "name": "VowTz",
+            "role": "Author"
+          }
+        ],
+        "category": "Itens",
+        "summary": "Zoom enhancements",
+        "license": "MIT",
+        "updated": "2026-10-18",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
     }
   ]
 }
