@@ -321,17 +321,18 @@
       "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
       "id": "consolaria",
       "name": "Consolaria Mobile",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-consolaria-v1.0.0/consolaria-1.0.0.bl",
-        "sha256": "f2b020b5efebe3656020b1f9d10b1010b3da5cfef47a4d7214f503bc46fcd400",
-        "size": 27407444
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-consolaria-v1.0.1/consolaria-1.0.1.bl",
+        "sha256": "73fa6d168049999ce934dd68858db1173964ebf89d8513837fe1d5f139719a06",
+        "size": 27409106
       },
       "files": [
         "manifest.json",
         "icon.png",
         "banner.png",
         "description.md",
+        "changelog.md",
         "license.md",
         "authors/consolaria_team.png",
         "thumbnails/0.webp",
@@ -349,7 +350,7 @@
         "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
         "id": "consolaria",
         "name": "Consolaria Mobile",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "authors": [
           {
             "name": "Consolaria Team",
