@@ -944,6 +944,49 @@
       }
     },
     {
+      "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
+      "id": "moddifficulty",
+      "name": "Legendary Difficulty",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-moddifficulty-v1.0.0/moddifficulty-1.0.0.bl",
+        "sha256": "417b4adf5610897c796c029cdfe96c13beaf7d3d697fb923bbd1f295a267d26d",
+        "size": 48518
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "authors/0.jpg"
+      ],
+      "manifest": {
+        "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
+        "id": "moddifficulty",
+        "name": "Legendary Difficulty",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "GST378",
+            "role": "author",
+            "avatar": "0.jpg",
+            "color": "#ffffff",
+            "link": "https://youtube.com/@gst_378"
+          }
+        ],
+        "category": "Gameplay",
+        "summary": "为游戏添加自定义世界难度（原版只有普通/专家/大师/旅行难度），并加入传奇难度。.",
+        "license": "",
+        "updated": "2026-10-16",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
       "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
       "id": "lightsandshadows",
       "name": "Lights And Shadows",
