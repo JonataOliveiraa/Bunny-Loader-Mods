@@ -273,6 +273,45 @@
       }
     },
     {
+      "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
+      "id": "chestpeek",
+      "name": "ChestPeek",
+      "version": "0.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-chestpeek-v0.1.0/chestpeek-0.1.0.bl",
+        "sha256": "cc01b57109e0806582a907912f7472aad8b2cf2e79a15d7ed0341cc9f29c673b",
+        "size": 636332
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md"
+      ],
+      "manifest": {
+        "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
+        "id": "chestpeek",
+        "name": "ChestPeek",
+        "version": "0.1.0",
+        "authors": [
+          {
+            "name": "VowTz",
+            "role": "Inspiration"
+          }
+        ],
+        "category": "Itens",
+        "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
+        "license": "GPL-3.0",
+        "updated": "2026-10-18",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
       "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
       "id": "coloreddamagetypes",
       "name": "Colored Damage Types",
