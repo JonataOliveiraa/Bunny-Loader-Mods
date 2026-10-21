@@ -1262,6 +1262,41 @@
       }
     },
     {
+      "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
+      "id": "qualityofbunny",
+      "name": "Quality of Bunny",
+      "version": "67",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-qualityofbunny-v67/qualityofbunny-67.bl",
+        "sha256": "2d741fab46e1b2d6372d594141118586b7bb85396e258002a0a95a5f6ce1f581",
+        "size": 191668
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md"
+      ],
+      "manifest": {
+        "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
+        "id": "qualityofbunny",
+        "name": "Quality of Bunny",
+        "version": "67",
+        "authors": [
+          {
+            "name": "VowTz"
+          }
+        ],
+        "category": "Utilidade",
+        "summary": "Quality-of-life tweaks, every one a toggle in Mod Configuration.",
+        "license": "MIT",
+        "updated": "2026-10-17",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
       "id": "resized-frames",
       "name": "Resized Frames",
