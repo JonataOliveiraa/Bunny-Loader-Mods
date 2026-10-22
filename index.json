@@ -1592,6 +1592,55 @@
       }
     },
     {
+      "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
+      "id": "ropemod",
+      "name": "Terraria Tethers",
+      "version": "0.3.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-ropemod-v0.3.0/ropemod-0.3.0.bl",
+        "sha256": "492a5175d9aebb6577861b37357a1a6d181f5155544042eea7950f50e8c13de0",
+        "size": 51650
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "authors/bloa.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
+        "id": "ropemod",
+        "name": "Terraria Tethers",
+        "version": "0.3.0",
+        "authors": [
+          {
+            "name": "CeleryMan",
+            "role": "Original mod",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024",
+            "avatar": "steam.png"
+          },
+          {
+            "name": "Bloa",
+            "role": "Port to Bunny Loader",
+            "avatar": "bloa.png"
+          }
+        ],
+        "category": "Gameplay",
+        "summary": "Players are tied together by a rope and have to cooperate.",
+        "updated": "2026-10-21",
+        "blVersion": 2,
+        "entry": "main.js",
+        "links": [
+          {
+            "title": "Original Steam Workshop mod",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024"
+          }
+        ]
+      },
+      "publishedAt": "2026-10-22T16:56:20Z"
+    },
+    {
       "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
       "id": "tooltipicon",
       "name": "Tooltip Icon",

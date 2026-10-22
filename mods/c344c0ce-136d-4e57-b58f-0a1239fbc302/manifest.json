@@ -1,0 +1,30 @@
+{
+  "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
+  "id": "ropemod",
+  "name": "Terraria Tethers",
+  "version": "0.3.0",
+  "authors": [
+    {
+      "name": "CeleryMan",
+      "role": "Original mod",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024",
+      "avatar": "steam.png"
+    },
+    {
+      "name": "Bloa",
+      "role": "Port to Bunny Loader",
+      "avatar": "bloa.png"
+    }
+  ],
+  "category": "Gameplay",
+  "summary": "Players are tied together by a rope and have to cooperate.",
+  "updated": "2026-10-21",
+  "blVersion": 2,
+  "entry": "main.js",
+  "links": [
+    {
+      "title": "Original Steam Workshop mod",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024"
+    }
+  ]
+}
