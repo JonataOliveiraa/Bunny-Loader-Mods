@@ -1111,6 +1111,81 @@
       }
     },
     {
+      "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
+      "id": "mc-paintings",
+      "name": "Minecraft Paintings",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-mc-paintings-v1.0.0/mc-paintings-1.0.0.bl",
+        "sha256": "6a27c46e2d217b7053e56ba443bd80da36a18e7d13df6b677b7f1ac62bccf2c2",
+        "size": 296249
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.jpeg",
+        "description.md",
+        "authors/github.png",
+        "thumbnails/0.jpeg",
+        "thumbnails/1.jpeg",
+        "doc/PlacedVisuals/Alban.png",
+        "doc/PlacedVisuals/Aztec.png",
+        "doc/PlacedVisuals/Aztec2.png",
+        "doc/PlacedVisuals/Bomb.png",
+        "doc/PlacedVisuals/BurningSkull.png",
+        "doc/PlacedVisuals/Bust.png",
+        "doc/PlacedVisuals/Courbet.png",
+        "doc/PlacedVisuals/Creebet.png",
+        "doc/PlacedVisuals/DonkeyKong.png",
+        "doc/PlacedVisuals/Fighters.png",
+        "doc/PlacedVisuals/Graham.png",
+        "doc/PlacedVisuals/Kebab.png",
+        "doc/PlacedVisuals/Match.png",
+        "doc/PlacedVisuals/Pigscene.png",
+        "doc/PlacedVisuals/Plant.png",
+        "doc/PlacedVisuals/Pointer.png",
+        "doc/PlacedVisuals/Pool.png",
+        "doc/PlacedVisuals/Sea.png",
+        "doc/PlacedVisuals/Skeleton.png",
+        "doc/PlacedVisuals/SkullAndRoses.png",
+        "doc/PlacedVisuals/Stage.png",
+        "doc/PlacedVisuals/Sunset.png",
+        "doc/PlacedVisuals/Void.png",
+        "doc/PlacedVisuals/Wanderer.png",
+        "doc/PlacedVisuals/Wasteland.png",
+        "doc/PlacedVisuals/Wither.png",
+        "doc/PlacedVisuals/Earth.png",
+        "doc/PlacedVisuals/Fire.png",
+        "doc/PlacedVisuals/Water.png",
+        "doc/PlacedVisuals/Wind.png"
+      ],
+      "manifest": {
+        "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
+        "id": "mc-paintings",
+        "name": "Minecraft Paintings",
+        "summary": "Minecraft Paintings is a small-scale aesthetic content mod that adds all 30 paintings featured in Minecraft, manually recreated to include less noise and tile dimensions fitting Terraria paintings.",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Barometz",
+            "role": "Original Creator",
+            "avatar": "github.png",
+            "color": "#FFFFFF",
+            "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
+          }
+        ],
+        "category": "Visual",
+        "updated": "2026-10-22",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
       "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
       "id": "hellomod",
       "name": "Minishark Turbo",

@@ -1,0 +1,25 @@
+{
+  "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
+  "id": "mc-paintings",
+  "name": "Minecraft Paintings",
+  "summary": "Minecraft Paintings is a small-scale aesthetic content mod that adds all 30 paintings featured in Minecraft, manually recreated to include less noise and tile dimensions fitting Terraria paintings.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Barometz",
+      "role": "Original Creator",
+      "avatar": "github.png",
+      "color": "#FFFFFF",
+      "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
+    }
+  ],
+  "category": "Visual",
+  "updated": "2026-10-22",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": []
+}
