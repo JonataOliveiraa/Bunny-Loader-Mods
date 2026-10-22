@@ -1292,6 +1292,49 @@
       }
     },
     {
+      "uid": "005ff90e-02cd-4caa-ba96-953378fca597",
+      "id": "no-useless-pickups",
+      "name": "No Useless Pickups",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-no-useless-pickups-v1.0.0/no-useless-pickups-1.0.0.bl",
+        "sha256": "10bb2f05ee53a90b52310da675d4b65980f55785796a2bb4202687f06903ff5a",
+        "size": 108259
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "005ff90e-02cd-4caa-ba96-953378fca597",
+        "id": "no-useless-pickups",
+        "name": "No Useless Pickups",
+        "summary": "Consumable pickups (life hearts, mana stars, and Nebula boosters) can no longer be picked up if they are not needed.",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Lunaros",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "color": "#FFFFFF",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3288950444"
+          }
+        ],
+        "category": "QoL",
+        "updated": "2026-10-22",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
       "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
       "id": "npcunlockannouncer",
       "name": "NPC Unlock Announcer",
