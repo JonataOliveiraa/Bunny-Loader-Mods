@@ -1,0 +1,13 @@
+{
+  "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
+  "id": "voluntaryhook",
+  "name": "愿者上钩 (VoluntaryHook)",
+  "version": "1.1.0",
+  "authors": [{ "name": "lzup333" }],
+  "category": "Jogabilidade",
+  "summary": "抛出鱼钩后数量固定 5 倍，实现多倍鱼钩。",
+  "license": "AGPL-3.0",
+  "updated": "2026-10-22",
+  "blVersion": 2,
+  "entry": "main.js"
+}
