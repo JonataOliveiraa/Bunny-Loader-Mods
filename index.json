@@ -439,6 +439,51 @@
       }
     },
     {
+      "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
+      "id": "coyote-frames",
+      "name": "Coyote Frames",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-coyote-frames-v1.0.0/coyote-frames-1.0.0.bl",
+        "sha256": "1d2266231ef0dba0d0dbf1e432c8b3880048efaca1e3f91525eb9897189f6015",
+        "size": 345885
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "license.md",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
+        "id": "coyote-frames",
+        "name": "Coyote Frames",
+        "summary": "Mod that allows player to use Coyote frames that are presented in many other games.",
+        "version": "1.0.0",
+        "license": "MIT",
+        "authors": [
+          {
+            "name": "Gorffy, Ink of the Eternity, Litos the Litium",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "color": "#FFFFFF",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3331547573"
+          }
+        ],
+        "category": "Gameplay",
+        "updated": "2026-10-22",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      }
+    },
+    {
       "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
       "id": "devtools",
       "name": "Dev Tools",
