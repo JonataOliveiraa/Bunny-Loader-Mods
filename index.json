@@ -230,6 +230,57 @@
       }
     },
     {
+      "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
+      "id": "bosschecklist",
+      "name": "Boss Checklist",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bosschecklist-v1.1.0/bosschecklist-1.1.0.bl",
+        "sha256": "e9eec3a730a2a9f5b7bb34320dbc09817d83fe507e49fe5815589f033d34a7b6",
+        "size": 899263
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
+        "id": "bosschecklist",
+        "name": "Boss Checklist",
+        "version": "1.1.0",
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
+          },
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "role": "Port"
+          }
+        ],
+        "links": [
+          {
+            "title": "Original Mod",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
+          }
+        ],
+        "category": "Interface",
+        "summary": "A Boss Log book with every boss, mini-boss and event: progress checklist, spawn items and recipes, loot and collectibles, fight records, despawn messages and a boss radar.",
+        "updated": "2026-10-25",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
       "id": "bosscursor",
       "name": "Boss Cursor",
