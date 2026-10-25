@@ -2,12 +2,16 @@
   "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
   "id": "qualityofbunny",
   "name": "Quality of Bunny",
-  "version": "67",
-  "authors": [{ "name": "VowTz" }],
+  "version": "68",
+  "authors": [
+    {
+      "name": "VowTz"
+    }
+  ],
   "category": "Utilidade",
   "summary": "Quality-of-life tweaks, every one a toggle in Mod Configuration.",
   "license": "MIT",
-  "updated": "2026-10-17",
+  "updated": "2026-10-25",
   "blVersion": 2,
   "entry": "main.js"
 }

@@ -18,6 +18,7 @@ Quality-of-life tweaks for Terraria Mobile, **inspired by Quality of Terraria** 
 - **No biome spread**: Corruption, Crimson and Hallow stop spreading.
 - **Pylons: no NPCs**: pylons work without the town NPC requirement.
 - **Infinite angler quests**: turn in a quest and the Angler has the next one right away, no waiting for the next day. Single player or host only.
+- **Glowing life crystals and fruits**: life crystals glow red and life fruits glow green. say goodbye to spelunker potions!
 
 ## Items
 - **Show mod name**: tooltips of modded items say which mod they come from.
