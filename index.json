@@ -1380,6 +1380,62 @@
       }
     },
     {
+      "uid": "96640ec6-506d-457f-a695-8e212bd07184",
+      "id": "npcfalldamage",
+      "name": "NPC Fall Damage",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-npcfalldamage-v1.0.0/npcfalldamage-1.0.0.bl",
+        "sha256": "c14fe7e011617f4c9b67cee2fa0b4fc408e20fdc00faa8a6316108758ea2c4b6",
+        "size": 77945
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "96640ec6-506d-457f-a695-8e212bd07184",
+        "id": "npcfalldamage",
+        "name": "NPC Fall Damage",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Ryan (RightoeusRyan)",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
+          },
+          {
+            "name": "Animatak_",
+            "role": "Port",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/KcRfNEMUxn"
+          }
+        ],
+        "category": "Gameplay",
+        "summary": "This mod allows NPCs to take fall damage. Pretty self explanatory. This bonus also applies to bosses.",
+        "updated": "2026-10-24",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Original Mod",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
+          }
+        ]
+      }
+    },
+    {
       "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
       "id": "npcunlockannouncer",
       "name": "NPC Unlock Announcer",
