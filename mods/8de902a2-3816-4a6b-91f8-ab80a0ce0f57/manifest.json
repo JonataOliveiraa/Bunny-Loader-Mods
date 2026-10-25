@@ -1,0 +1,34 @@
+{
+  "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
+  "id": "teleportkeeper",
+  "name": "Teleport Keeper",
+  "version": "1.2.0",
+  "authors": [
+    {
+      "name": "Animatak_",
+      "role": "Author",
+      "avatar": "animatak.png",
+      "color": "#841FFF",
+      "link": "https://discord.gg/mkPMd9shZH"
+    }
+  ],
+  "links": [
+    {
+      "title": "Discord",
+      "url": "https://discord.gg/mkPMd9shZH"
+    }
+  ],
+  "category": "Utility",
+  "summary": "Create teleports with a name and a biome icon, organize them in a list with search, favorites and filters, and travel to them from the map. When you die, a way back that is only yours.",
+  "localizedSummaries": {
+    "pt-BR": "Crie teleportes com nome e ícone do bioma, organize-os numa lista com busca, favoritos e filtros, e viaje até eles pelo mapa. Ao morrer, um ponto de volta só seu.",
+    "es-ES": "Crea teletransportes con nombre e icono del bioma, organízalos en una lista con búsqueda, favoritos y filtros, y viaja hasta ellos desde el mapa. Al morir, un punto de regreso solo tuyo.",
+    "ru-RU": "Создавайте телепорты с названием и значком биома, держите их в списке с поиском, избранным и фильтрами и перемещайтесь к ним через карту. После смерти — точка возврата только для вас.",
+    "zh-Hans": "创建带名称和生物群系图标的传送点，在支持搜索、收藏和筛选的列表中管理它们，并通过地图传送过去。死亡后，还有一个只属于你的返回点。",
+    "vi-VN": "Tạo điểm dịch chuyển có tên và biểu tượng quần xã, sắp xếp trong danh sách có tìm kiếm, yêu thích và bộ lọc, rồi đi đến chúng từ bản đồ. Khi chết, có một điểm quay lại chỉ của riêng bạn.",
+    "th-TH": "สร้างจุดวาร์ปพร้อมชื่อและไอคอนไบโอม จัดเก็บในรายการที่มีการค้นหา รายการโปรด และตัวกรอง แล้วเดินทางไปจากแผนที่ เมื่อตาย จะมีจุดกลับที่เป็นของคุณคนเดียว"
+  },
+  "updated": "2026-10-25",
+  "blVersion": 2,
+  "entry": "main.js"
+}
