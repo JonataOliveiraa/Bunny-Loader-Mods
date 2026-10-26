@@ -2102,6 +2102,48 @@
       }
     },
     {
+      "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
+      "id": "topdownmode",
+      "name": "Top-Down Mode (teste)",
+      "version": "0.31.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-topdownmode-v0.31.0/topdownmode-0.31.0.bl",
+        "sha256": "877eb21f23319616f0bb08de1e7df2537712f212ec9834670ca1c4483f0d2314",
+        "size": 2847929
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "authors/castorzeira.png",
+        "docs/background.jpg"
+      ],
+      "manifest": {
+        "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
+        "id": "topdownmode",
+        "name": "Top-Down Mode (teste)",
+        "version": "0.31.0",
+        "authors": [
+          {
+            "name": "Castorzeira",
+            "avatar": "castorzeira.png"
+          }
+        ],
+        "category": "Gameplay",
+        "summary": "Teste top-down: sem gravidade, 8 direções, golpe na direção do mouse e mundo top-down em ilha com os biomas do Terraria.",
+        "description": "VERSÃO BETA: este mod ainda não está completo e pode ter erros, bugs e comportamentos inesperados. Use por sua conta e risco e, de preferência, em mundos de teste (faça backup dos seus saves). O Top-Down Mode transforma o Terraria em um jogo de visão de cima: sem gravidade, com movimento em 8 direções, golpe de espada na direção do mouse, mundos novos gerados como ilha com os biomas do Terraria (rios, lagos, árvores, cactos, pedras e mato), água em movimento com nado, ciclo de dia e noite, profundidade (y-sort) de árvores, móveis e NPCs, e cavernas com minérios acessadas por escada. Novidades ainda estão sendo adicionadas e alguns sistemas podem mudar nas próximas versões.",
+        "updated": "2026-10-25",
+        "blVersion": 2,
+        "entry": "main.js",
+        "theme": {
+          "background": "docs/background.jpg",
+          "backgroundMode": "cover",
+          "backgroundDim": 0.4
+        }
+      },
+      "publishedAt": "2026-10-26T17:28:54Z"
+    },
+    {
       "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
       "id": "touhoupets",
       "name": "Touhou Pets",

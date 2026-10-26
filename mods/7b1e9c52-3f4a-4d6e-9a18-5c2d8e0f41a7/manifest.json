@@ -1,0 +1,23 @@
+{
+  "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
+  "id": "topdownmode",
+  "name": "Top-Down Mode (teste)",
+  "version": "0.31.0",
+  "authors": [
+    {
+      "name": "Castorzeira",
+      "avatar": "castorzeira.png"
+    }
+  ],
+  "category": "Gameplay",
+  "summary": "Teste top-down: sem gravidade, 8 direções, golpe na direção do mouse e mundo top-down em ilha com os biomas do Terraria.",
+  "description": "VERSÃO BETA: este mod ainda não está completo e pode ter erros, bugs e comportamentos inesperados. Use por sua conta e risco e, de preferência, em mundos de teste (faça backup dos seus saves). O Top-Down Mode transforma o Terraria em um jogo de visão de cima: sem gravidade, com movimento em 8 direções, golpe de espada na direção do mouse, mundos novos gerados como ilha com os biomas do Terraria (rios, lagos, árvores, cactos, pedras e mato), água em movimento com nado, ciclo de dia e noite, profundidade (y-sort) de árvores, móveis e NPCs, e cavernas com minérios acessadas por escada. Novidades ainda estão sendo adicionadas e alguns sistemas podem mudar nas próximas versões.",
+  "updated": "2026-10-25",
+  "blVersion": 2,
+  "entry": "main.js",
+  "theme": {
+    "background": "docs/background.jpg",
+    "backgroundMode": "cover",
+    "backgroundDim": 0.4
+  }
+}
