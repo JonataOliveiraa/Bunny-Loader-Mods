@@ -599,6 +599,44 @@
       ]
     },
     {
+      "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
+      "id": "dont-starve-inspired-npc-portraits",
+      "name": "Don't Starve inspired NPC portraits",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-dont-starve-inspired-npc-portraits-v1.0.0/dont-starve-inspired-npc-portraits-1.0.0.bl",
+        "sha256": "8fd0e46ba2c2013e6bf6d2c310fe208eb9a470e857c92e1f43b7a40d14189f39",
+        "size": 1371721
+      },
+      "files": [
+        "manifest.json",
+        "icon.png"
+      ],
+      "manifest": {
+        "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
+        "id": "dont-starve-inspired-npc-portraits",
+        "name": "Don't Starve inspired NPC portraits",
+        "version": "1.0.0",
+        "author": "Fanec",
+        "description": "Don't Starve inspired NPC portraits — port Bunny Loader.",
+        "type": "texture",
+        "category": "Textures",
+        "blVersion": 2,
+        "links": [
+          {
+            "title": "Original Terraria Resource Pack",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3679638344"
+          },
+          {
+            "title": "Bunny Loader texture pack guide",
+            "url": "https://github.com/JonataOliveiraa/Bunny-Loader/blob/main/docs/mods/14-pacotes-de-textura.md"
+          }
+        ],
+        "notes": "Original resource pack by Fanec. Texture assets retained with their original relative paths under content/Images."
+      },
+      "publishedAt": "2026-10-26T10:26:37Z"
+    },
+    {
       "uid": "18be738c-3c45-4191-b666-e0801f602b2a",
       "id": "flatseed",
       "name": "Flat Seed",
