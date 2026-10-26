@@ -579,6 +579,46 @@
       }
     },
     {
+      "uid": "cece9409-844d-476a-8953-1a59de78db92",
+      "id": "directionalswings",
+      "name": "Directional Swings",
+      "version": "1.1.1",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-directionalswings-v1.1.1/directionalswings-1.1.1.bl",
+        "sha256": "c38525616daab42fe75799ec0d9428da7a5fb25e87d5a8570fc01b4e3569e87a",
+        "size": 1389150
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md"
+      ],
+      "manifest": {
+        "uid": "cece9409-844d-476a-8953-1a59de78db92",
+        "id": "directionalswings",
+        "name": "Directional Swings",
+        "version": "1.1.1",
+        "authors": [
+          {
+            "name": "VowTz",
+            "role": "Author"
+          }
+        ],
+        "category": "Jogabilidade",
+        "summary": "Melee swords swing toward where you aim, and the hitbox follows the blade.",
+        "license": "MIT",
+        "updated": "2026-10-25",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": []
+      },
+      "publishedAt": "2026-10-26T10:27:00Z"
+    },
+    {
       "uid": "95728a1c-1fb7-4ed7-af5b-d12bdec38e46",
       "id": "dobrodedano",
       "name": "Dobro de Dano",
