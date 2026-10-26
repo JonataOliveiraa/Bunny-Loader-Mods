@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.0
+
+- Using the new UI systems.
+- Using the game's translations for the generation steps (GenPass).
+- Reworked the world preview map UI.
+- Added translations of the changelog and description in several languages.
+
+## 1.1.7
+
+- Fewer messages in the game log.
+
 ## 1.1.6
 
 - Fixed a crash when going back from the Multiplayer menu after picking a

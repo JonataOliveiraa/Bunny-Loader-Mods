@@ -2394,11 +2394,11 @@
       "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
       "id": "worldgenpreviewer",
       "name": "WorldGen Previewer",
-      "version": "1.1.6",
+      "version": "1.2.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-worldgenpreviewer-v1.1.6/worldgenpreviewer-1.1.6.bl",
-        "sha256": "ccbfc3346fa99cde5b4890a4b3334d16be0c2cd365098ef3a24aad0afa00aede",
-        "size": 112711
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-worldgenpreviewer-v1.2.0/worldgenpreviewer-1.2.0.bl",
+        "sha256": "fdf9f657990f697a7d2cf0e7a1a435bc6beda6fcdc29627cffedb7374e139a96",
+        "size": 141676
       },
       "files": [
         "manifest.json",
@@ -2412,25 +2412,35 @@
         "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
         "id": "worldgenpreviewer",
         "name": "WorldGen Previewer",
-        "version": "1.1.6",
+        "version": "1.2.0",
         "authors": [
           {
             "name": "jopojelly",
+            "role": "Original Creator",
             "avatar": "steam.png",
-            "role": "Original Author",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2843258712"
           },
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
-            "link": "https://discord.gg/lemon-studio-1422278971227115532",
+            "link": "https://discord.gg/mkPMd9shZH",
             "role": "Port"
           }
         ],
         "category": "Utility",
-        "summary": "Watch your world being generated step by step: pause, skip steps, repeat the last step or cancel the generation.",
-        "updated": "2026-10-08",
+        "summary": "Watch your world being generated: a live map filled column by column, pause, skip or repeat steps, or cancel the generation.",
+        "localizedSummaries": {
+          "pt-BR": "Veja o seu mundo sendo gerado: um mapa ao vivo preenchido coluna por coluna, pause, pule ou repita etapas, ou cancele a geração.",
+          "es-ES": "Mira cómo se genera tu mundo: un mapa en vivo que se rellena columna a columna, pausa, salta o repite pasos, o cancela la generación.",
+          "fr-FR": "Regardez votre monde se générer : une carte en direct remplie colonne par colonne, mettez en pause, ignorez ou répétez des étapes, ou annulez la génération.",
+          "de-DE": "Sieh zu, wie deine Welt generiert wird: eine Live-Karte, die Spalte für Spalte gefüllt wird; pausiere, überspringe oder wiederhole Schritte oder brich die Generierung ab.",
+          "it-IT": "Guarda il tuo mondo mentre viene generato: una mappa dal vivo riempita colonna per colonna, metti in pausa, salta o ripeti i passaggi, o annulla la generazione.",
+          "ru-RU": "Смотрите, как генерируется ваш мир: живая карта, заполняемая столбец за столбцом; ставьте на паузу, пропускайте или повторяйте этапы, или отмените генерацию.",
+          "zh-Hans": "观看世界的生成过程：逐列填充的实时地图，可暂停、跳过或重复步骤，也可取消生成。",
+          "pl-PL": "Patrz, jak generuje się twój świat: mapa na żywo wypełniana kolumna po kolumnie; wstrzymuj, pomijaj lub powtarzaj etapy albo anuluj generowanie."
+        },
+        "updated": "2026-10-26",
         "blVersion": 2,
         "entry": "main.js"
       }
