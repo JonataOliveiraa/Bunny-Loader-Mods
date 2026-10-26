@@ -1,0 +1,34 @@
+{
+  "uid": "18be738c-3c45-4191-b666-e0801f602b2a",
+  "id": "flatseed",
+  "name": "Flat Seed",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Animatak_",
+      "role": "Author",
+      "avatar": "animatak.png",
+      "color": "#841FFF",
+      "link": "https://discord.gg/mkPMd9shZH"
+    }
+  ],
+  "links": [
+    {
+      "title": "Discord",
+      "url": "https://discord.gg/mkPMd9shZH"
+    }
+  ],
+  "category": "World",
+  "summary": "A secret seed for a world so flat you can run without fear of tripping into a hole: type \"flat\" when creating a world. Caves, biomes, structures and the floating islands stay as usual.",
+  "localizedSummaries": {
+    "pt-BR": "Uma seed secreta para um mundo tão plano que dá para correr sem medo de cair num buraco: digite \"plano\" ou \"flat\" ao criar um mundo. Cavernas, biomas, estruturas e as ilhas flutuantes continuam normais.",
+    "es-ES": "Una semilla secreta para un mundo tan plano que puedes correr sin miedo a caer en un agujero: escribe \"plano\" o \"flat\" al crear un mundo. Las cuevas, los biomas, las estructuras y las islas flotantes siguen como siempre.",
+    "ru-RU": "Секретный сид для мира настолько плоского, что можно бежать, не боясь провалиться в яму: введите «плоский» или «flat» при создании мира. Пещеры, биомы, постройки и парящие острова остаются как обычно.",
+    "zh-Hans": "一个平到可以放心狂奔、不怕掉进坑里的世界秘密种子：创建世界时输入「平坦」或「flat」。洞穴、生物群系、建筑和浮空岛照常保留。",
+    "vi-VN": "Một hạt giống bí mật cho thế giới phẳng đến mức bạn có thể chạy mà không sợ rơi xuống hố: gõ \"phẳng\" hoặc \"flat\" khi tạo thế giới. Hang động, quần xã, công trình và đảo bay vẫn như bình thường.",
+    "th-TH": "ซีดลับสำหรับโลกที่แบนจนวิ่งได้โดยไม่ต้องกลัวตกหลุม: พิมพ์ \"แบน\" หรือ \"flat\" ตอนสร้างโลก ถ้ำ ไบโอม สิ่งก่อสร้าง และเกาะลอยฟ้ายังคงเหมือนเดิม"
+  },
+  "updated": "2026-10-26",
+  "blVersion": 2,
+  "entry": "main.js"
+}
