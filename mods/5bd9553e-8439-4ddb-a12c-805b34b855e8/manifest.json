@@ -2,7 +2,7 @@
   "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
   "id": "bosschecklist",
   "name": "Boss Checklist",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "authors": [
     {
       "name": "jopojelly",
@@ -26,7 +26,17 @@
   ],
   "category": "Interface",
   "summary": "A Boss Log book with every boss, mini-boss and event: progress checklist, spawn items and recipes, loot and collectibles, fight records, despawn messages and a boss radar.",
-  "updated": "2026-10-25",
+  "updated": "2026-10-27",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedSummaries": {
+    "pt-BR": "Um Boss Log com todos os chefes, minichefes e eventos: lista de progresso, itens de invocação e receitas, drops e colecionáveis, recordes de luta, mensagens de fuga e um radar de chefes.",
+    "es-ES": "Un Boss Log con todos los jefes, minijefes y eventos: lista de progreso, objetos de invocación y recetas, botín y coleccionables, récords de combate, mensajes de huida y un radar de jefes.",
+    "de-DE": "Ein Boss Log mit allen Bossen, Mini-Bossen und Ereignissen: Fortschrittsliste, Beschwörungsgegenstände und Rezepte, Beute und Sammelobjekte, Kampfrekorde, Abzugsmeldungen und ein Boss-Radar.",
+    "fr-FR": "Un Boss Log avec tous les boss, mini-boss et événements : liste de progression, objets d'invocation et recettes, butin et objets de collection, records de combat, messages de départ et un radar de boss.",
+    "it-IT": "Un Boss Log con tutti i boss, i mini-boss e gli eventi: lista dei progressi, oggetti di evocazione e ricette, bottino e collezionabili, record dei combattimenti, messaggi di fuga e un radar dei boss.",
+    "ru-RU": "Boss Log со всеми боссами, мини-боссами и событиями: список прогресса, предметы призыва и рецепты, добыча и коллекция, рекорды боёв, сообщения об уходе и радар боссов.",
+    "pl-PL": "Boss Log ze wszystkimi bossami, mini-bossami i wydarzeniami: lista postępu, przedmioty przywołujące i przepisy, łupy i kolekcja, rekordy walk, komunikaty o odejściu i radar bossów.",
+    "zh-Hans": "一本包含所有Boss、小Boss和事件的 Boss Log：进度清单、召唤物品与配方、战利品与收藏品、战斗记录、Boss离开提示以及Boss雷达。"
+  }
 }

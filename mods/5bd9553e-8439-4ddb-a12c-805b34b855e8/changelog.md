@@ -1,18 +1,17 @@
 # Changelog
 
+## 1.1.1
+
+- Fixed the Boss Log not opening on multiplayer clients: textures stay valid
+  after joining a server.
+- Description and changelog in every Terraria language.
+
 ## 1.1.0
 
-- The whole interface was rebuilt with Bunny Loader's new UI methods
-  (`UIState`, `UserInterface`, `UIList`, interface layers), laid out like the
-  PC mod and made for touch.
-- The Boss Log and Boss Checklist open from touch buttons in the game's
-  controls editor, and close the inventory when opened.
-- A tap on an entry opens its page right away; a long-press marks it as
-  defeated (the PC's right click).
-- Touching the book or the checklist no longer presses the game's controls
-  under it.
-- Fight times and play time show in days, hours, minutes and seconds
-  (`1d 2h 0m 5s`); the Time Format config was removed.
+- Interface rebuilt for touch with Bunny Loader's new UI: touch buttons open
+  the Boss Log and the checklist, a tap opens an entry and a long-press marks
+  it as defeated.
+- Times shown in days, hours, minutes and seconds.
 
 ## 1.0.2
 
