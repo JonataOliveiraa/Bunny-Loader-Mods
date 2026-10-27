@@ -2418,6 +2418,55 @@
       ]
     },
     {
+      "uid": "35117929-e61f-42bc-97c5-773228761b99",
+      "id": "universalmap",
+      "name": "Universal Map",
+      "version": "1.1.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-universalmap-v1.1.2/universalmap-1.1.2.bl",
+        "sha256": "b83ec21c7a5b2e7609a99ee153c06d546491d47dc67e1c3412393535a70fea3a",
+        "size": 71055
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png"
+      ],
+      "manifest": {
+        "uid": "35117929-e61f-42bc-97c5-773228761b99",
+        "id": "universalmap",
+        "name": "Universal Map",
+        "version": "1.1.2",
+        "authors": [
+          {
+            "name": "Animatak_",
+            "role": "Creator",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532"
+          }
+        ],
+        "category": "Utility",
+        "summary": "In multiplayer, every player's explored map is shared with everyone every minute.",
+        "updated": "2026-10-27",
+        "blVersion": 2,
+        "entry": "main.js",
+        "localizedSummaries": {
+          "pt-BR": "No multijogador, o mapa explorado de cada jogador é compartilhado com todos a cada minuto.",
+          "es-ES": "En multijugador, el mapa explorado de cada jugador se comparte con todos cada minuto.",
+          "de-DE": "Im Mehrspieler wird die erkundete Karte jedes Spielers jede Minute mit allen geteilt.",
+          "fr-FR": "En multijoueur, la carte explorée de chaque joueur est partagée avec tout le monde chaque minute.",
+          "it-IT": "In multigiocatore, la mappa esplorata di ogni giocatore viene condivisa con tutti ogni minuto.",
+          "ru-RU": "В мультиплеере исследованная карта каждого игрока каждую минуту передаётся всем.",
+          "pl-PL": "W trybie wieloosobowym odkryta mapa każdego gracza jest co minutę udostępniana wszystkim.",
+          "zh-Hans": "在多人游戏中，每位玩家探索过的地图每分钟都会与所有人共享。"
+        }
+      }
+    },
+    {
       "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
       "id": "veinminer",
       "name": "Vein Miner",
