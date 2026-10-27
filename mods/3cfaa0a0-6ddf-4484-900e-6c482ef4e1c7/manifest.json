@@ -1,0 +1,42 @@
+{
+  "uid": "3cfaa0a0-6ddf-4484-900e-6c482ef4e1c7",
+  "id": "kineticgore",
+  "name": "Physaria (Kinetic Gore)",
+  "version": "2.8.2",
+  "authors": [
+    {
+      "name": "LevitatingGT",
+      "role": "Original Creator",
+      "avatar": "steam.png",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
+    },
+    {
+      "name": "Animatak_",
+      "role": "Port",
+      "avatar": "animatak.png",
+      "color": "#841FFF",
+      "link": "https://discord.gg/mkPMd9shZH"
+    }
+  ],
+  "links": [
+    {
+      "title": "Original Mod",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
+    }
+  ],
+  "category": "Visual",
+  "summary": "A ragdoll and body physics engine for Terraria: enemies collapse into ragdolls, lose heads and limbs, bleed sticky blood, and humanoids and slimes wobble with physics. Purely cosmetic.",
+  "localizedSummaries": {
+    "pt-BR": "Um motor de ragdoll e física de corpos para o Terraria: inimigos caem como bonecos de pano, perdem a cabeça e as pernas, sangram sangue que gruda no chão, e humanoides e slimes balançam com física. Só visual.",
+    "es-ES": "Un motor de ragdoll y física de cuerpos para Terraria: los enemigos caen como muñecos de trapo, pierden la cabeza y las piernas, sangran sangre que se pega al suelo, y humanoides y slimes se bambolean con física. Solo visual.",
+    "de-DE": "Eine Ragdoll- und Körperphysik-Engine für Terraria: Gegner fallen als Ragdolls zusammen, verlieren Kopf und Beine, bluten klebriges Blut, und Humanoide und Schleime wackeln mit Physik. Rein kosmetisch.",
+    "fr-FR": "Un moteur de ragdoll et de physique des corps pour Terraria : les ennemis s'effondrent en ragdolls, perdent tête et jambes, saignent un sang collant, et humanoïdes et slimes ballottent avec la physique. Purement cosmétique.",
+    "it-IT": "Un motore di ragdoll e fisica dei corpi per Terraria: i nemici crollano come ragdoll, perdono testa e gambe, sanguinano sangue appiccicoso, e umanoidi e slime dondolano con la fisica. Puramente estetico.",
+    "ru-RU": "Движок рэгдоллов и физики тел для Terraria: враги падают рэгдоллами, теряют голову и ноги, истекают липкой кровью, а гуманоиды и слизни качаются по физике. Чисто косметический.",
+    "pl-PL": "Silnik ragdolli i fizyki ciał dla Terrarii: wrogowie padają jako ragdolle, tracą głowę i nogi, krwawią lepką krwią, a humanoidy i szlamy chwieją się z fizyką. Czysto kosmetyczny.",
+    "zh-Hans": "泰拉瑞亚的布娃娃与身体物理引擎：敌人倒下变成布娃娃，会掉头断腿、流出粘性血液，人形角色和史莱姆会随物理摇晃。纯外观效果。"
+  },
+  "updated": "2026-10-27",
+  "blVersion": 2,
+  "entry": "main.js"
+}
