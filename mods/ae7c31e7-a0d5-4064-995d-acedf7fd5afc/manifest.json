@@ -2,22 +2,20 @@
   "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
   "id": "pingmod",
   "name": "Player Ping UI",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "authors": [
     {
       "name": "MooMoo",
       "role": "Original Creator",
-      "avatar": "steam.png",
-      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370",
+      "avatar": "steam.png"
     },
     {
       "name": "crumb",
-      "avatar": "steam.png",
       "role": "Ping icon sprites"
     },
     {
       "name": "otterly",
-      "avatar": "steam.png",
       "role": "Mod icon border"
     },
     {

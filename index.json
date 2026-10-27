@@ -1830,11 +1830,11 @@
       "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
       "id": "pingmod",
       "name": "Player Ping UI",
-      "version": "1.0.2",
+      "version": "1.0.5",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-pingmod-v1.0.2/pingmod-1.0.2.bl",
-        "sha256": "8f2c45f93bc4e6fd2578945fa4a4f6f750a8e62360cec217fa56e09f7325c299",
-        "size": 118449
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-pingmod-v1.0.5/pingmod-1.0.5.bl",
+        "sha256": "0257d4a96426ad8a909fdbf3086fec2c1f65921da52056268e038624d4008404",
+        "size": 118848
       },
       "files": [
         "manifest.json",
@@ -1848,22 +1848,20 @@
         "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
         "id": "pingmod",
         "name": "Player Ping UI",
-        "version": "1.0.2",
+        "version": "1.0.5",
         "authors": [
           {
             "name": "MooMoo",
             "role": "Original Creator",
-            "avatar": "steam.png",
-            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370",
+            "avatar": "steam.png"
           },
           {
             "name": "crumb",
-            "avatar": "steam.png",
             "role": "Ping icon sprites"
           },
           {
             "name": "otterly",
-            "avatar": "steam.png",
             "role": "Mod icon border"
           },
           {

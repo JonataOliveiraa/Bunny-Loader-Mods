@@ -12,8 +12,8 @@ connected player.
   anywhere: then you **drag** it with your finger.
 - **Tap** the indicator to open the settings: the icon style and how many
   seconds between ping checks.
-- The **player board** button, at the top of the screen, opens the server
-  panel: each player with their head, name, ping and the icon they chose.
+- The **player board** button, next to your ping icon, opens the server panel
+  below it: each player with their head, name, ping and the icon they chose.
 - Nothing shows in single player.
 
 The ping is really measured: the device sends a packet to the server and times

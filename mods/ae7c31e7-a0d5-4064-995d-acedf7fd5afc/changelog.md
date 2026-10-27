@@ -1,18 +1,16 @@
 # What's new
 
-## 1.0.2
+## 1.0.5
 
-- The ping indicator now sits next to the health bar, at its left end and
-  centered on it, in any health bar style. The new option **Next to the
-  health bar** (on by default) can be turned off to drag it freely again.
-- Translated into every Terraria language: German, French, Spanish, Italian,
-  Russian, Polish and Chinese.
+- The ping indicator sits next to the health bar, with the player board button
+  beside it. Turn off **Next to the health bar** to drag it anywhere.
+- The board and the settings never overlap, and they close when the inventory,
+  the pause menu, another screen or another mod's interface opens.
+- The ping interface draws above the rest of the interface, with full player
+  names and readable text.
+- Translated into every Terraria language.
 
 ## 1.0.1
 
-- Port of Player Ping UI 1.0.1 to Bunny Loader.
-- On mobile: drag the indicator with your finger and tap it to open the
-  settings (instead of right click).
-- The style and refresh time are also in Mod Configuration, with an option to
-  hide the indicator.
-- The server panel is drawn directly, without rebuilding the list every frame.
+- Port of Player Ping UI to Bunny Loader: drag the indicator and tap it for the
+  settings, which are also in Mod Configuration.
