@@ -1762,6 +1762,77 @@
       }
     },
     {
+      "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
+      "id": "pingmod",
+      "name": "Player Ping UI",
+      "version": "1.0.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-pingmod-v1.0.2/pingmod-1.0.2.bl",
+        "sha256": "8f2c45f93bc4e6fd2578945fa4a4f6f750a8e62360cec217fa56e09f7325c299",
+        "size": 118449
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "authors/animatak.png",
+        "authors/steam.png"
+      ],
+      "manifest": {
+        "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
+        "id": "pingmod",
+        "name": "Player Ping UI",
+        "version": "1.0.2",
+        "authors": [
+          {
+            "name": "MooMoo",
+            "role": "Original Creator",
+            "avatar": "steam.png",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
+          },
+          {
+            "name": "crumb",
+            "avatar": "steam.png",
+            "role": "Ping icon sprites"
+          },
+          {
+            "name": "otterly",
+            "avatar": "steam.png",
+            "role": "Mod icon border"
+          },
+          {
+            "name": "Animatak_",
+            "role": "Port",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/mkPMd9shZH"
+          }
+        ],
+        "links": [
+          {
+            "title": "Original Mod",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
+          }
+        ],
+        "category": "Utility",
+        "summary": "See your ping in multiplayer, pick an icon style that everyone sees, and open a panel with the ping of every connected player.",
+        "localizedSummaries": {
+          "pt-BR": "Veja seu ping no multijogador, escolha um estilo de ícone que todos veem e abra um painel com o ping de cada jogador conectado.",
+          "es-ES": "Mira tu ping en multijugador, elige un estilo de icono que todos ven y abre un panel con el ping de cada jugador conectado.",
+          "de-DE": "Sieh deinen Ping im Mehrspieler, wähle einen Symbolstil, den alle sehen, und öffne ein Fenster mit dem Ping jedes verbundenen Spielers.",
+          "fr-FR": "Vois ton ping en multijoueur, choisis un style d'icône visible par tous et ouvre un panneau avec le ping de chaque joueur connecté.",
+          "it-IT": "Guarda il tuo ping in multigiocatore, scegli uno stile d'icona che vedono tutti e apri un pannello con il ping di ogni giocatore connesso.",
+          "ru-RU": "Смотрите свой пинг в мультиплеере, выберите стиль значка, который видят все, и откройте панель с пингом каждого подключённого игрока.",
+          "pl-PL": "Zobacz swój ping w trybie wieloosobowym, wybierz styl ikony widoczny dla wszystkich i otwórz panel z pingiem każdego połączonego gracza.",
+          "zh-Hans": "在多人游戏中查看你的延迟，选择所有人都能看到的图标样式，并打开显示每位已连接玩家延迟的面板。"
+        },
+        "updated": "2026-10-27",
+        "blVersion": 2,
+        "entry": "main.js"
+      }
+    },
+    {
       "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
       "id": "qualityofbunny",
       "name": "Quality of Bunny",
