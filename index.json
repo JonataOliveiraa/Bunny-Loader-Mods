@@ -546,6 +546,33 @@
       }
     },
     {
+      "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
+      "id": "darkfantasyhealthmana",
+      "name": "Dark Fantasy Health/Mana",
+      "version": "1.1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-darkfantasyhealthmana-v1.1.0/darkfantasyhealthmana-1.1.0.bl",
+        "sha256": "12becbea1fe3082f4cff51a5efe5233065db517dbcc3ce0d525249fae8927a16",
+        "size": 17036
+      },
+      "files": [
+        "manifest.json",
+        "icon.png"
+      ],
+      "manifest": {
+        "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
+        "id": "darkfantasyhealthmana",
+        "name": "Dark Fantasy Health/Mana",
+        "version": "1.1.0",
+        "author": "Santartica",
+        "description": "Terraria Ovehaul for Health and Mana",
+        "type": "texture",
+        "category": "Textures",
+        "blVersion": 2
+      },
+      "publishedAt": "2026-10-28T02:19:59Z"
+    },
+    {
       "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
       "id": "devtools",
       "name": "Dev Tools",
