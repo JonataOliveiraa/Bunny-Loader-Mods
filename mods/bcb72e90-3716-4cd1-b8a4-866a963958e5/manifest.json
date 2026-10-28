@@ -1,0 +1,12 @@
+{
+  "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+  "id": "bunnysocial",
+  "name": "BunnySocial",
+  "version": "1.0.0",
+  "author": "VowTz",
+  "category": "Jogabilidade",
+  "summary": "Every vanity slot works like an accessory slot.",
+  "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
+  "blVersion": 2,
+  "entry": "main.js"
+}

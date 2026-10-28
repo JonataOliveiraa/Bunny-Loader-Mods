@@ -335,6 +335,35 @@
       }
     },
     {
+      "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+      "id": "bunnysocial",
+      "name": "BunnySocial",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bunnysocial-v1.0.0/bunnysocial-1.0.0.bl",
+        "sha256": "d81318260ccc552d2cc385d198d1751d1100a23fb88bd73c49840acf8aad014b",
+        "size": 1704071
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png"
+      ],
+      "manifest": {
+        "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+        "id": "bunnysocial",
+        "name": "BunnySocial",
+        "version": "1.0.0",
+        "author": "VowTz",
+        "category": "Jogabilidade",
+        "summary": "Every vanity slot works like an accessory slot.",
+        "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
+        "blVersion": 2,
+        "entry": "main.js"
+      },
+      "publishedAt": "2026-10-28T02:20:38Z"
+    },
+    {
       "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
       "id": "chestpeek",
       "name": "ChestPeek",
