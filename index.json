@@ -2341,11 +2341,11 @@
       "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
       "id": "ropemod",
       "name": "Terraria Tethers",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-ropemod-v0.3.0/ropemod-0.3.0.bl",
-        "sha256": "492a5175d9aebb6577861b37357a1a6d181f5155544042eea7950f50e8c13de0",
-        "size": 51650
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-ropemod-v0.3.1/ropemod-0.3.1.bl",
+        "sha256": "b04fec8693e7d376f16b00133de6d9f03db8c040fd0d25f9e85d7f4dfece145a",
+        "size": 53417
       },
       "files": [
         "manifest.json",
@@ -2358,7 +2358,7 @@
         "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
         "id": "ropemod",
         "name": "Terraria Tethers",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "authors": [
           {
             "name": "CeleryMan",
