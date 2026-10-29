@@ -1,0 +1,18 @@
+{
+  "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
+  "id": "boss-colored-relics",
+  "name": "Boss-Colored Relics",
+  "version": "1.0",
+  "author": "The Wise Willow",
+  "description": "Boss-Colored Relics(Remastered Edition)",
+  "type": "texture",
+  "category": "Textures",
+  "blVersion": 2,
+  "links": [
+    {
+      "title": "Original Terraria Resource Pack",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
+    }
+  ],
+  "notes": "Original resource pack by The Wise Willow"
+}

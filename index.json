@@ -335,6 +335,39 @@
       }
     },
     {
+      "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
+      "id": "boss-colored-relics",
+      "name": "Boss-Colored Relics",
+      "version": "1.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-boss-colored-relics-v1.0/boss-colored-relics-1.0.bl",
+        "sha256": "26ab5ee74aac134955fbbeee711dd888e6f860a73f8e6b0a85ab3760f74fb642",
+        "size": 186293
+      },
+      "files": [
+        "manifest.json",
+        "icon.png"
+      ],
+      "manifest": {
+        "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
+        "id": "boss-colored-relics",
+        "name": "Boss-Colored Relics",
+        "version": "1.0",
+        "author": "The Wise Willow",
+        "description": "Boss-Colored Relics(Remastered Edition)",
+        "type": "texture",
+        "category": "Textures",
+        "blVersion": 2,
+        "links": [
+          {
+            "title": "Original Terraria Resource Pack",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
+          }
+        ],
+        "notes": "Original resource pack by The Wise Willow"
+      }
+    },
+    {
       "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
       "id": "bunnysocial",
       "name": "BunnySocial",
