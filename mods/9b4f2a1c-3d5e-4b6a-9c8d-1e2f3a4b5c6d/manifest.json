@@ -1,0 +1,23 @@
+{
+  "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
+  "id": "defaultdash",
+  "name": "Default Dash",
+  "type": "mod",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "VowTz"
+    }
+  ],
+  "category": "Jogabilidade",
+  "summary": "Gives the player a basic dash without needing any dashing accessory.",
+  "license": "no license",
+  "updated": "2026-10-29",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "DefaultDash.cs",
+  "dependencies": []
+}
