@@ -1382,6 +1382,45 @@
       ]
     },
     {
+      "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+      "id": "isekaid",
+      "name": "Isekaid RPG System",
+      "version": "0.2.2-beta",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-isekaid-v0.2.2-beta/isekaid-0.2.2-beta.bl",
+        "sha256": "f02f38fce53df04ccc0878ef6801a1f475ba2c45151116db0440c302b891c913",
+        "size": 35585
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/Zayah.png"
+      ],
+      "manifest": {
+        "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+        "id": "isekaid",
+        "name": "Isekaid RPG System",
+        "version": "0.2.2-beta",
+        "authors": [
+          {
+            "name": "Zayah",
+            "role": "Mod",
+            "color": "#7FD4FF"
+          }
+        ],
+        "category": "Gameplay",
+        "summary": "BETA: RPG progression, attributes, status menu and progression-based enemy scaling. Restricted use.",
+        "license": "Personal-use",
+        "updated": "2026-10-29",
+        "blVersion": 2,
+        "entry": "main.js"
+      },
+      "publishedAt": "2026-10-31T18:44:20Z"
+    },
+    {
       "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
       "id": "displaybase",
       "name": "Item Display Base",

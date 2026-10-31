@@ -1,0 +1,19 @@
+{
+  "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+  "id": "isekaid",
+  "name": "Isekaid RPG System",
+  "version": "0.2.2-beta",
+  "authors": [
+    {
+      "name": "Zayah",
+      "role": "Mod",
+      "color": "#7FD4FF"
+    }
+  ],
+  "category": "Gameplay",
+  "summary": "BETA: RPG progression, attributes, status menu and progression-based enemy scaling. Restricted use.",
+  "license": "Personal-use",
+  "updated": "2026-10-29",
+  "blVersion": 2,
+  "entry": "main.js"
+}
