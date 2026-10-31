@@ -2,7 +2,7 @@
   "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
   "id": "isekaid",
   "name": "Isekaid RPG System",
-  "version": "0.2.2-beta",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Zayah",
@@ -11,9 +11,9 @@
     }
   ],
   "category": "Gameplay",
-  "summary": "BETA: RPG progression, attributes, status menu and progression-based enemy scaling. Restricted use.",
+  "summary": "RPG progression for Terraria: levels, 8 attributes, 6 classes, status menu and enemy scaling by boss progression.",
   "license": "Personal-use",
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "blVersion": 2,
   "entry": "main.js"
 }

@@ -1,6 +1,6 @@
 # ISEKAID RPG SYSTEM — LICENÇA DE USO RESTRITO
 
-**Estado do projeto: BETA.**
+**Versão: 1.0.0.**
 **Titular indicado no mod: Zayah.**
 
 ## Todos os direitos reservados
@@ -20,9 +20,9 @@ Sem autorização prévia e expressa por escrito do titular, não é permitido:
 
 Baixar ou possuir uma cópia não concede permissão para redistribuir, modificar ou reutilizar os componentes. Solicitações de autorização devem ser dirigidas ao titular e aprovadas expressamente por escrito.
 
-## Aviso de versão beta
+## Garantias
 
-Este software está em fase BETA e é fornecido “como está”, sem garantia de estabilidade, compatibilidade, funcionamento contínuo ou ausência de erros. Podem ocorrer bugs, alterações de balanceamento, incompatibilidades e perda de dados. Faça backups dos seus saves antes de testar.
+Este software é fornecido “como está”, sem garantia de estabilidade, compatibilidade, funcionamento contínuo ou ausência de erros. Podem ocorrer bugs, alterações de balanceamento, incompatibilidades e perda de dados. Faça backups dos seus saves antes de usar.
 
 Esta licença expressa as condições pretendidas pelo titular, mas sua aplicação depende da legislação aplicável e dos direitos que o titular efetivamente detém sobre cada componente incluído. Assets ou bibliotecas de terceiros permanecem sujeitos às respectivas licenças.
 

@@ -1,20 +1,18 @@
 # Isekaid RPG System
 
-**Versão BETA — em desenvolvimento ativo.**
-
-Isekaid RPG System adiciona progressão de personagem ao Terraria com experiência, níveis, pontos de atributo e uma interface de status dedicada. Ao subir de nível, o personagem recebe pontos para distribuir entre oito atributos: Vitalidade, Resistência, Força, Inteligência, Destreza, Carisma, Agilidade e Fé.
+Isekaid RPG System adiciona progressão de personagem ao Terraria com experiência, níveis, classes, pontos de atributo e uma interface de status dedicada. Ao derrotar inimigos você ganha EXP; ao subir de nível, o personagem recebe pontos para distribuir entre oito atributos: Vitalidade, Resistência, Força, Inteligência, Destreza, Carisma, Agilidade e Fé.
 
 ## Recursos
 
-- Barra de experiência e progressão por níveis.
+- Barra de experiência e progressão por níveis, com o EXP de cada inimigo aparecendo sobre ele.
+- Efeito ao subir de nível: partículas verdes, texto flutuante e som.
 - Pontos de atributo concedidos ao subir de nível.
+- Seis classes (Guerreiro, Atirador, Mago, Invocador, Necromante e Combatente) com passivas próprias, escolhidas na primeira vez que o menu é aberto.
 - Menu de status com duas colunas, ícones coloridos e descrições dos atributos.
 - Controles para melhorar atributos, aplicar alterações, cancelar alterações pendentes e resetar a progressão.
+- Dificuldade progressiva: cada boss principal derrotado deixa as criaturas hostis 10% mais fortes (vida e dano). Bosses opcionais não contam.
 - Interface e textos localizados em português e inglês.
-
-## Estado beta
-
-Este mod ainda está em BETA. A interface, os efeitos dos atributos, o balanceamento, o salvamento e a compatibilidade podem mudar e podem existir erros ou incompatibilidades. Faça backup dos seus dados antes de usar e reporte problemas com o log do mod.
+- Comando `/exp` para testes (`add`, `set`, `reset`, `menu`, `class`).
 
 ## Licença
 

@@ -1432,15 +1432,16 @@
       "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
       "id": "isekaid",
       "name": "Isekaid RPG System",
-      "version": "0.2.2-beta",
+      "version": "1.0.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-isekaid-v0.2.2-beta/isekaid-0.2.2-beta.bl",
-        "sha256": "f02f38fce53df04ccc0878ef6801a1f475ba2c45151116db0440c302b891c913",
-        "size": 35585
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-isekaid-v1.0.0/isekaid-1.0.0.bl",
+        "sha256": "f217cedb426bb371a0cf17ea455d2fd8800f807969bfff7de1656b1100dec6a1",
+        "size": 57093
       },
       "files": [
         "manifest.json",
         "icon.png",
+        "banner.png",
         "description.md",
         "changelog.md",
         "license.md",
@@ -1450,7 +1451,7 @@
         "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
         "id": "isekaid",
         "name": "Isekaid RPG System",
-        "version": "0.2.2-beta",
+        "version": "1.0.0",
         "authors": [
           {
             "name": "Zayah",
@@ -1459,9 +1460,9 @@
           }
         ],
         "category": "Gameplay",
-        "summary": "BETA: RPG progression, attributes, status menu and progression-based enemy scaling. Restricted use.",
+        "summary": "RPG progression for Terraria: levels, 8 attributes, 6 classes, status menu and enemy scaling by boss progression.",
         "license": "Personal-use",
-        "updated": "2026-10-29",
+        "updated": "2026-10-31",
         "blVersion": 2,
         "entry": "main.js"
       },
