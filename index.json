@@ -1442,6 +1442,81 @@
       }
     },
     {
+      "uid": "56ae3a13-ac51-4bc7-8c8f-a03f8f5d26b4",
+      "id": "lanternslot",
+      "name": "Lantern Slot",
+      "version": "1.0.2",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-lanternslot-v1.0.2/lanternslot-1.0.2.bl",
+        "sha256": "42db56c18fb16bf0c4133c41d1e6016cf7e3481087ddc404ad504a17c327321b",
+        "size": 414481
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "authors/mantovani.jpg",
+        "authors/nyacro.jpg"
+      ],
+      "manifest": {
+        "uid": "56ae3a13-ac51-4bc7-8c8f-a03f8f5d26b4",
+        "id": "lanternslot",
+        "name": "Lantern Slot",
+        "version": "1.0.2",
+        "authors": [
+          {
+            "name": "Nyacro",
+            "role": "Criador do Lantern Slot original (PC)",
+            "color": "#E8B86C",
+            "link": "https://discord.gg/NfmBrA2Re",
+            "avatar": "nyacro.jpg"
+          },
+          {
+            "name": "Mantovani",
+            "role": "Adaptação para Bunny Loader / Android",
+            "color": "#8EE3C4",
+            "link": "https://discord.gg/CvnHYUXMB",
+            "avatar": "mantovani.jpg"
+          }
+        ],
+        "category": "Acessórios",
+        "summary": "Leve uma lanterna na cintura ou nas mãos, com slot exclusivo, vaidade, tinturas, animações e iluminação personalizável.",
+        "license": "Direitos reservados",
+        "updated": "2026-10-31",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Discord do port",
+            "url": "https://discord.gg/CvnHYUXMB"
+          },
+          {
+            "title": "Discord do Nyacro",
+            "url": "https://discord.gg/NfmBrA2Re"
+          },
+          {
+            "title": "Mod original (PC)",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814375974"
+          }
+        ],
+        "theme": {
+          "accent": "#F4C46A",
+          "panel": "#30213B",
+          "text": "#F1E5F1",
+          "heading": "#FFF4D4"
+        }
+      },
+      "publishedAt": "2026-10-31T10:08:13Z"
+    },
+    {
       "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
       "id": "moddifficulty",
       "name": "Legendary Difficulty",
