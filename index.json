@@ -1432,11 +1432,11 @@
       "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
       "id": "isekaid",
       "name": "Isekaid RPG System",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-isekaid-v1.0.0/isekaid-1.0.0.bl",
-        "sha256": "f217cedb426bb371a0cf17ea455d2fd8800f807969bfff7de1656b1100dec6a1",
-        "size": 57093
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-isekaid-v1.0.1/isekaid-1.0.1.bl",
+        "sha256": "f9ec2b1029d285455cf71561bedf4db679b4332d097c3401ba4069113f945e44",
+        "size": 60157
       },
       "files": [
         "manifest.json",
@@ -1451,7 +1451,7 @@
         "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
         "id": "isekaid",
         "name": "Isekaid RPG System",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "authors": [
           {
             "name": "Zayah",

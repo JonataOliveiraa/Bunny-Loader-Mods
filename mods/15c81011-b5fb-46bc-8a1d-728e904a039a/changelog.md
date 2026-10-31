@@ -25,3 +25,10 @@
 - `/exp add` now plays the same level-up effect, so it can be tested without killing enemies.
 - Description rewritten: beta notice removed, features list now covers classes, enemy scaling and the level-up effect.
 - `license.md` updated: beta notice replaced by a standard "as is" warranty section.
+
+## 1.0.1
+- Each character now has its own profile per world, identified by `Name_Seed` (character name + world seed). Level, exp, attribute points, attributes, class and boss kills are saved separately for each ID, so characters (and the same character in different worlds) no longer share stats.
+- Loading other characters (character select, other players in multiplayer) no longer overwrites or applies your stats to them.
+- Existing saves keep their progress: it is adopted by the first world the character enters after updating.
+- `/exp id` shows the active profile ID.
+- Fixed the level-up sound failing because of overloaded `PlaySound` signatures. If the sound still cannot play, the cause is written to the mod log and the rest of the effect keeps working.
