@@ -1645,6 +1645,56 @@
       }
     },
     {
+      "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
+      "id": "menumedia",
+      "name": "Menu Media",
+      "version": "1.5.0",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-menumedia-v1.5.0/menumedia-1.5.0.bl",
+        "sha256": "40a338280d0b3c667f89dda893ad1fc5de3f1bbed7fd2cc83e70324df627fa46",
+        "size": 26297
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_vi.md",
+        "description_vi.md"
+      ],
+      "manifest": {
+        "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
+        "id": "menumedia",
+        "name": "Menu Media",
+        "version": "1.5.0",
+        "authors": [
+          {
+            "name": "Menu Media",
+            "role": "Code",
+            "color": "#7FC8FF"
+          }
+        ],
+        "category": "Utility",
+        "summary": "Every GIF/image in Assets/MenuThemes becomes a main-menu theme, with the audio file of the same name as its music.",
+        "license": "MIT",
+        "updated": "2026-10-31",
+        "featured": false,
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "vi": "Menu Media"
+        }
+      },
+      "publishedAt": "2026-10-31T13:14:19Z"
+    },
+    {
       "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
       "id": "mc-paintings",
       "name": "Minecraft Paintings",
