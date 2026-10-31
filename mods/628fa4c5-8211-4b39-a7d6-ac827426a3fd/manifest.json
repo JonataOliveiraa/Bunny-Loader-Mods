@@ -1,0 +1,34 @@
+{
+  "uid": "628fa4c5-8211-4b39-a7d6-ac827426a3fd",
+  "id": "umamusumevanities",
+  "name": "Umamusume Vanities — Bunny Port",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Nyacro",
+      "role": "Mod original para PC",
+      "avatar": "nyacro.jpg"
+    },
+    {
+      "name": "Mantovani",
+      "role": "Port para Bunny Loader",
+      "avatar": "mantovani.jpg"
+    }
+  ],
+  "category": "Itens",
+  "summary": "Port gratuito e sem fins comerciais. Mod original: Nyacro; personagens: Cygames; port Android: Mantovani.",
+  "updated": "2026-10-30",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Comunidade do mod original",
+      "url": "https://discord.gg/NfmBrA2Re"
+    }
+  ]
+}
