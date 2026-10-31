@@ -1,0 +1,52 @@
+{
+  "uid": "888cc431-b9d8-4016-a87f-6fcbaa32223b",
+  "id": "tetovanitysets",
+  "name": "Teto Vanity Sets",
+  "version": "1.40",
+  "authors": [
+    {
+      "name": "Makeight",
+      "role": "Original mod",
+      "color": "#E8446D",
+      "link": "https://discord.gg/f5ZYcYTXTE"
+    },
+    {
+      "name": "Ink of the Eternity",
+      "role": "Coding help",
+      "color": "#7FC8FF"
+    },
+    {
+      "name": "Bloa",
+      "role": "Port to Bunny Loader",
+      "avatar": "bloa.png"
+    }
+  ],
+  "category": "Itens",
+  "summary": "A lot of Kasane Teto vanity sets, wings, backpacks, a hairstyle, two pets (Pearto and the Sukina Souzai Happyou Dragon) and the Kasane Teto NPC who sells them all.",
+  "license": "All rights reserved",
+  "featured": false,
+  "updated": "2026-10-14",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Original Steam Workshop mod",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3309069289"
+    },
+    {
+      "title": "Teto Discord",
+      "url": "https://discord.gg/f5ZYcYTXTE"
+    }
+  ],
+  "pages": [
+    {
+      "title": "Shop",
+      "file": "docs/shop.md"
+    }
+  ]
+}
