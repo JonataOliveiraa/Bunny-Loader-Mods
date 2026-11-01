@@ -2175,6 +2175,35 @@
       }
     },
     {
+      "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+      "id": "orycto",
+      "name": "Orycto (Alpha)",
+      "version": "1",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-orycto-v1/orycto-1.bl",
+        "sha256": "7bf984fa7434919fa5253883bb157bf2c62bf3316fec5d9cf2d38f8fc2e0b97a",
+        "size": 80181
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png"
+      ],
+      "manifest": {
+        "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+        "id": "orycto",
+        "name": "Orycto (Alpha)",
+        "version": "1",
+        "author": "vowtz",
+        "category": "Optimization",
+        "summary": "Orycto: FPS unlocker and performance optimizations.",
+        "description": "A performance mod for Terraria Mobile: unlocks frame rates, skips redundant lighting work on in-between frames, caps dust, and much more.",
+        "blVersion": 2,
+        "entry": "main.js"
+      },
+      "publishedAt": "2026-11-01T22:16:08Z"
+    },
+    {
       "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
       "id": "overhealth",
       "name": "Overhealth",

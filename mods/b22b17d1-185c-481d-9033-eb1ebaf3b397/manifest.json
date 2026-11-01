@@ -1,0 +1,12 @@
+{
+  "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+  "id": "orycto",
+  "name": "Orycto (Alpha)",
+  "version": "1",
+  "author": "vowtz",
+  "category": "Optimization",
+  "summary": "Orycto: FPS unlocker and performance optimizations.",
+  "description": "A performance mod for Terraria Mobile: unlocks frame rates, skips redundant lighting work on in-between frames, caps dust, and much more.",
+  "blVersion": 2,
+  "entry": "main.js"
+}
