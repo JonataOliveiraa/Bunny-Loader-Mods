@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.6.0
+- `<tên>_Icon.png/.jpg` đặt cạnh ảnh nền của một theme sẽ thay logo tiêu đề của game khi theme đó được chọn.
+- Thêm tùy chọn trong game **Kích thước icon** (10-500%).
+
 ## 1.5.0
 - Thêm tùy chọn **Tốc độ GIF** (0-60 fps, 0 = giữ tốc độ gốc) trong Cài đặt > Mod Configuration > Menu Media.
 

@@ -12,15 +12,26 @@ Every **GIF** (or image) in the mod's `content/Assets/MenuThemes/` folder become
 
 Backgrounds: `.gif`, `.png`, `.jpg`. Audio: `.mp3`, `.ogg`, `.wav`, `.m4a`, `.aac`, `.flac`.
 
-## Size, position and GIF speed
+## Custom logo (`_Icon`)
 
-In game: **Settings > Mod Configuration > Menu Media** (also in the pause menu, inside a world). Four sliders:
+Add an image named like the background plus `_Icon` and it replaces the game's **Terraria title logo** while that theme is selected:
+
+```
+bang.gif  +  bang.mp3  +  bang_Icon.png
+```
+
+`.png` or `.jpg`, still image only. It is drawn where the game's logo is, with the logo's own scale and the **Icon size** option. A theme without `_Icon` keeps the normal logo. (A mod cannot change the phone's app icon; this is the in-game logo.)
+
+## Size, position, icon and GIF speed
+
+In game: **Settings > Mod Configuration > Menu Media** (also in the pause menu, inside a world). Five sliders:
 
 | Option | Default | Range |
 |---|---|---|
 | Size | `115%` | 50% to 300% |
 | Position X | `0 px` | -1000 to 1000 (negative = left) |
 | Position Y | `0 px` | -1000 to 1000 (negative = up) |
+| Icon size | `100%` | 10% to 500% (of the game's own logo scale) |
 | GIF speed | `0` | 0 to 60 fps. `0` = the GIF's own timing; any other value shows every kept frame for `1000 / fps` ms. |
 
 Press **Apply** and the menu background updates right away. **Default** resets them. The picture is zoomed around the center of the screen, then moved by X/Y.

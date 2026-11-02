@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.6.0
+- `<name>_Icon.png/.jpg` next to a theme's background replaces the game's title logo while that theme is selected.
+- New in-game option **Icon size** (10-500%).
+
 ## 1.5.0
 - New in-game option **GIF speed** (0-60 fps, 0 = the GIF's own timing) in Settings > Mod Configuration > Menu Media.
 

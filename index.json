@@ -1803,11 +1803,11 @@
       "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
       "id": "menumedia",
       "name": "Menu Media",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-menumedia-v1.5.0/menumedia-1.5.0.bl",
-        "sha256": "40a338280d0b3c667f89dda893ad1fc5de3f1bbed7fd2cc83e70324df627fa46",
-        "size": 26297
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-menumedia-v1.6.0/menumedia-1.6.0.bl",
+        "sha256": "181ec54931a3ca4aeeef29401c0507cac168e66e90acebd505a918e001d11913",
+        "size": 142540
       },
       "files": [
         "manifest.json",
@@ -1817,17 +1817,19 @@
         "changelog.md",
         "license.md",
         "changelog_vi.md",
-        "description_vi.md"
+        "description_vi.md",
+        "authors/amogus.png"
       ],
       "manifest": {
         "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
         "id": "menumedia",
         "name": "Menu Media",
-        "version": "1.5.0",
+        "version": "1.6.0",
         "authors": [
           {
-            "name": "Menu Media",
-            "role": "Code",
+            "name": "amogus",
+            "role": "Dev",
+            "avatar": "amogus.png",
             "color": "#7FC8FF"
           }
         ],

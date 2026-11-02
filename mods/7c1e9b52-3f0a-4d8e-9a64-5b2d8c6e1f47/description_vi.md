@@ -12,15 +12,26 @@ Mỗi **GIF** (hoặc ảnh) trong thư mục `content/Assets/MenuThemes/` của
 
 Nền: `.gif`, `.png`, `.jpg`. Âm thanh: `.mp3`, `.ogg`, `.wav`, `.m4a`, `.aac`, `.flac`.
 
-## Kích thước, vị trí và tốc độ GIF
+## Logo tùy chỉnh (`_Icon`)
 
-Trong game: **Cài đặt > Mod Configuration > Menu Media** (cũng có trong menu tạm dừng khi đang ở trong thế giới). Có bốn thanh trượt:
+Thêm một ảnh có tên giống ảnh nền cộng thêm `_Icon` thì nó thay **logo Terraria ở menu** khi theme đó đang được chọn:
+
+```
+bang.gif  +  bang.mp3  +  bang_Icon.png
+```
+
+`.png` hoặc `.jpg`, chỉ ảnh tĩnh. Ảnh được vẽ đúng chỗ logo của game, theo tỉ lệ của logo và tùy chọn **Kích thước icon**. Theme không có `_Icon` giữ logo thường. (Mod không đổi được icon ứng dụng trên điện thoại; đây là logo trong game.)
+
+## Kích thước, vị trí, icon và tốc độ GIF
+
+Trong game: **Cài đặt > Mod Configuration > Menu Media** (cũng có trong menu tạm dừng khi đang ở trong thế giới). Có năm thanh trượt:
 
 | Tùy chọn | Mặc định | Phạm vi |
 |---|---|---|
 | Kích thước | `115%` | 50% đến 300% |
 | Vị trí X | `0 px` | -1000 đến 1000 (âm = sang trái) |
 | Vị trí Y | `0 px` | -1000 đến 1000 (âm = lên trên) |
+| Kích thước icon | `100%` | 10% đến 500% (so với tỉ lệ logo gốc của game) |
 | Tốc độ GIF | `0` | 0 đến 60 fps. `0` = giữ tốc độ gốc của GIF; giá trị khác thì mỗi khung được hiện `1000 / fps` ms. |
 
 Bấm **Apply** là nền menu đổi ngay. **Default** đặt lại về mặc định. Ảnh được phóng to quanh tâm màn hình rồi mới dịch theo X/Y.

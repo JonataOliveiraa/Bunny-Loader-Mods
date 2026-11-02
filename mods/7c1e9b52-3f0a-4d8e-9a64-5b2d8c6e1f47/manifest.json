@@ -2,11 +2,12 @@
   "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
   "id": "menumedia",
   "name": "Menu Media",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "authors": [
     {
-      "name": "Menu Media",
-      "role": "Code",
+      "name": "amogus",
+      "role": "Dev",
+      "avatar":"amogus.png",
       "color": "#7FC8FF"
     }
   ],
