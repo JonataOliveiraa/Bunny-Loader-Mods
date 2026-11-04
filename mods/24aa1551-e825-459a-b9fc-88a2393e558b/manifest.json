@@ -1,0 +1,33 @@
+{
+  "uid": "24aa1551-e825-459a-b9fc-88a2393e558b",
+  "id": "picassonpcportraits",
+  "name": "Picasso NPC Portraits",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Tretrigontillion",
+      "role": "Original texture pack author",
+      "avatar": "Tretrigontillion.webp",
+      "color": "#ff1976d2"
+    },
+    {
+      "name": "Vastastic",
+      "role": "Re-Ported",
+      "avatar": "Vastastic.webp",
+      "color": "#ff8080",
+      "link": "https://youtube.com/@gdvastastic?si=3DZsVhzovK6qaTtU"
+    }
+  ],
+  "category": "Texture",
+  "summary": "Turns every NPC portrait into a Picasso guide portrait — Bunny Loader port",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "type": "texture",
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [],
+  "notes": "Texture-only port. Original Content/Images paths were preserved under content/Images. Runtime texture override behavior must be verified in-game."
+}
