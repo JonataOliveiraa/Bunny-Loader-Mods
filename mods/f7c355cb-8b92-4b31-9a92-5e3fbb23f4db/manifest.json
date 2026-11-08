@@ -1,0 +1,59 @@
+{
+  "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
+  "id": "split",
+  "name": "Split",
+  "version": "1.0.1",
+  "category": "Jogabilidade",
+  "summary": "The Split Mod on mobile: bosses, biomes, Photography, Mana Overload and hundreds of items, up to Paraffin.",
+  "updated": "2026-11-08",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Mantovani",
+      "role": "Port",
+      "color": "#AF66DE",
+      "link": "https://github.com/MantovaniDevTrue"
+    },
+    {
+      "name": "Split Team",
+      "role": "Split Mod",
+      "avatar": "split.png",
+      "color": "#FFD678",
+      "link": "https://discord.gg/5eutHVCYMg"
+    }
+  ],
+  "localizedSummaries": {
+    "pt-BR": "O Split Mod no celular: chefes, biomas, Fotografia, Sobrecarga de Mana e centenas de itens, até a Paraffin.",
+    "en-US": "The Split Mod on mobile: bosses, biomes, Photography, Mana Overload and hundreds of items, up to Paraffin."
+  },
+  "license": "All rights reserved (Split Team)",
+  "links": [
+    {
+      "title": "Discord",
+      "url": "https://discord.gg/5eutHVCYMg"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/@SplitMod"
+    },
+    {
+      "title": "Wiki",
+      "url": "https://splitmod.fandom.com/wiki/The_Split_Mod_Wiki"
+    }
+  ],
+  "theme": {
+    "accent": "#FFD678",
+    "panel": "#2A1436",
+    "text": "#EDE3FF",
+    "heading": "#FFFFFF",
+    "button": "#6B2E7A",
+    "buttonText": "#FFFFFF",
+    "background": "#160A1E"
+  }
+}

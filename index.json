@@ -2559,6 +2559,103 @@
       }
     },
     {
+      "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
+      "id": "split",
+      "name": "Split",
+      "version": "1.0.1",
+      "download": {
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-split-v1.0.1/split-1.0.1.bl",
+        "sha256": "194c36cb7b5dc77b11dc6deb4fd7387153416b2bd272540d165b8503ac8cf4a3",
+        "size": 42546236
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_pt-BR.md",
+        "description_pt-BR.md",
+        "authors/split.png",
+        "thumbnails/split.png",
+        "content/Content/Items/PreOneShot/SpiritGizmo.png",
+        "content/Bosses/TheSpirit/TheSpirit_Head_Boss.png",
+        "content/Content/NPCs/Bosses/OneShot/OneShot_Head_Boss.png",
+        "content/Bosses/Menace/Menace_Head_Boss.png",
+        "content/Content/Bosses/Paraffin/Paraffin_Head_Boss.png",
+        "content/Content/Items/Bosses/Paraffin/SinisterCandle.png",
+        "content/Content/Misc/AwesomeLookingMatch.png",
+        "content/Content/Tiles/StrandedShip/FrostbiteWood.png",
+        "content/Content/Materials/Basaltite.png",
+        "content/Icons/ManaOverloadStar.png",
+        "content/Content/NPCs/Town/Genoshi/Collector_Head.png",
+        "content/Content/NPCs/Town/Astrologist/Astrologist_Head.png",
+        "content/Content/NPCs/Town/Magician/Magician_Head.png",
+        "content/Content/Sheep/SheepItem.png"
+      ],
+      "manifest": {
+        "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
+        "id": "split",
+        "name": "Split",
+        "version": "1.0.1",
+        "category": "Jogabilidade",
+        "summary": "The Split Mod on mobile: bosses, biomes, Photography, Mana Overload and hundreds of items, up to Paraffin.",
+        "updated": "2026-11-08",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Mantovani",
+            "role": "Port",
+            "color": "#AF66DE",
+            "link": "https://github.com/MantovaniDevTrue"
+          },
+          {
+            "name": "Split Team",
+            "role": "Split Mod",
+            "avatar": "split.png",
+            "color": "#FFD678",
+            "link": "https://discord.gg/5eutHVCYMg"
+          }
+        ],
+        "localizedSummaries": {
+          "pt-BR": "O Split Mod no celular: chefes, biomas, Fotografia, Sobrecarga de Mana e centenas de itens, até a Paraffin.",
+          "en-US": "The Split Mod on mobile: bosses, biomes, Photography, Mana Overload and hundreds of items, up to Paraffin."
+        },
+        "license": "All rights reserved (Split Team)",
+        "links": [
+          {
+            "title": "Discord",
+            "url": "https://discord.gg/5eutHVCYMg"
+          },
+          {
+            "title": "YouTube",
+            "url": "https://www.youtube.com/@SplitMod"
+          },
+          {
+            "title": "Wiki",
+            "url": "https://splitmod.fandom.com/wiki/The_Split_Mod_Wiki"
+          }
+        ],
+        "theme": {
+          "accent": "#FFD678",
+          "panel": "#2A1436",
+          "text": "#EDE3FF",
+          "heading": "#FFFFFF",
+          "button": "#6B2E7A",
+          "buttonText": "#FFFFFF",
+          "background": "#160A1E"
+        }
+      },
+      "publishedAt": "2026-11-08T12:56:31Z"
+    },
+    {
       "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
       "id": "teleportkeeper",
       "name": "Teleport Keeper",
