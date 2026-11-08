@@ -2562,11 +2562,11 @@
       "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
       "id": "split",
       "name": "Split",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "download": {
-        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-split-v1.0.1/split-1.0.1.bl",
-        "sha256": "194c36cb7b5dc77b11dc6deb4fd7387153416b2bd272540d165b8503ac8cf4a3",
-        "size": 42546236
+        "url": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-split-v1.0.2/split-1.0.2.bl",
+        "sha256": "953f22d0d8ada548795c676b6708f254199c924bd145f12cfe6a7e558028e8bc",
+        "size": 42549431
       },
       "files": [
         "manifest.json",
@@ -2598,7 +2598,7 @@
         "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
         "id": "split",
         "name": "Split",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "category": "Jogabilidade",
         "summary": "The Split Mod on mobile: bosses, biomes, Photography, Mana Overload and hundreds of items, up to Paraffin.",
         "updated": "2026-11-08",

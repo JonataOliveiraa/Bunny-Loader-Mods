@@ -1,5 +1,36 @@
 # Changelog
 
+## 1.0.2 - 2026-11-08 - Correções e desempenho
+
+Uma revisão geral da beta: erros que apareciam jogando, armas fora do lugar e bastante desempenho, principalmente em celulares mais fracos e no multiplayer.
+
+**Novidades**
+- Suporte ao Boss Checklist: com o mod instalado, o Boss Log mostra The Spirit, One-Shot, Menace e Paraffin, e os minichefes Colosso, Breathtaker e Fairyfly, com como invocar, itens de invocação, mensagem de fuga e se já foram vencidos.
+
+**Desempenho**
+- Qualidade automática dos efeitos: quando o jogo cai de quadros, a quantidade de partículas, poeira e luzes do Split diminui sozinha e volta aos poucos quando o jogo se recupera.
+- Limite de poeira e de luzes criadas pelo Split por quadro, que acompanha a opção de intensidade dos efeitos visuais.
+- Cores e vetores fixos usados ao desenhar e criar partículas agora são criados uma vez só, em vez de a cada quadro.
+- Multiplayer: os dados do Split de cada jogador ficam guardados; antes eram procurados do zero várias vezes por quadro para cada outro jogador no mundo.
+- Tomo do Monólito: a aura confere só o próprio jogador de cada celular, em vez de varrer todos os espaços de jogador.
+- Números aleatórios dos efeitos (poeira, faíscas, tiros espalhados) gerados no próprio mod, sem ir ao jogo a cada número.
+- Relíquias de chefe desenham com metade das idas ao jogo; os efeitos dos projéteis do Spirit usam a posição da tela guardada no tick.
+- Tarefas do jogador que só precisam de conferência de vez em quando (fotografia, solo glacial, inimigos de bioma) deixaram de rodar a cada quadro; o bônus do Crab Rave saiu de um gancho que rodava para todo item.
+- Pet Master Spirit: o desenho reaproveita posições, cores e recortes em vez de criar tudo de novo a cada quadro.
+- Serpentes de ossos da Paraffin: o corpo segue a cabeça com bem menos idas ao jogo por segmento.
+- Pedaços do Céu (Bit of Sky) no chão só brilham perto da tela.
+- Botões de toque do Split (ação secundária, Coveiro, Contraptionista, Alternador) conferem primeiro o que é barato, e as armaduras só leem o jogo quando o botão está apertado.
+
+**Correções**
+- Armas que ficavam separadas da mão, à frente do jogador: Oscilação Ártica, Ruptura Venenosa, Lança de Zircão, Faca Cerimonial, Chikage, Alternador, Foguete Meteorológico, Olho de Belial, Rifle Fotográfico, Razzle-Dazzle, Leque de Flocos de Gelo e Tomo do Monólito.
+- Tempestade Estelar: o clarão do tiro não sai mais andando. Cajado Aracnídeo: o projétil segue a curva certa. As raquetes seguem o jogador sem se adiantar.
+- Ovelha montada: o corpo voltou a aparecer. A Ovelha de lã arco-íris não dá mais erro ao ser desenhada.
+- Hyperboloid (bola de beisebol), Supercrescimento (ataque secundário), Lâmina Flamejante e Tempestade Estelar/Flamaxe (projéteis perseguidores) davam erro ao serem usados.
+- A Máscara do Mal e a Máscara Vingadora davam erro a cada quadro; agora aumentam o dano de lacaio e a velocidade dos chicotes. O Sétimo Elemento tinha o mesmo erro no bônus durante o Enjoo de Poção.
+- A Roda Lunar da Rocha Lunar não reconhecia a classe da arma.
+- O Leque de Flocos de Gelo não aplicava a pausa da regeneração de mana.
+
+
 ## 1.0.0 - 2026-11-01 - Beta: até a Paraffin
 
 A primeira versão completa do port: todo o conteúdo do Split 1.0.11 até a Paraffin, revisado e otimizado para o celular.
