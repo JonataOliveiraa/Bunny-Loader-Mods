@@ -1,35 +1,74 @@
 # Changelog
 
+## 1.0.5 - 2026-11-10 - Carga antes da tela inicial
+
+**Correções**
+- A tela de abertura (o logo antes do menu) agora espera o Split terminar de carregar. Em celulares mais lentos a tela inicial abria com o mod ainda pela metade, e quem entrava num mundo nessa hora ficava sem os itens, blocos e NPCs do mod. A abertura pode demorar mais do que antes: é o tempo de que o mod precisa.
+- Se mesmo assim alguém entrar num mundo antes de o mod terminar de carregar, aparece um aviso em vermelho no jogo: saia sem salvar e entre de novo, para não perder os itens do mod.
+
+## 1.0.4 - 2026-11-09 - Revisão das armas
+
+Uma revisão de todas as armas (e do resto do mod) contra as funções que o Terraria do celular realmente tem.
+
+**Correções**
+- Sons que não tocavam: a explosão dos mísseis da Bola de Carne, os cliques do álbum de fotos e os potes de Basaltita quebrando (que também não soltavam poeira nem pedaços).
+- Paraffin: o rastro do corpo (girando, correndo e na tosse final) dava erro.
+- Starshroom: a sentinela extra não era criada.
+- Celular Espacial: as informações (relógio, bússola, profundidade e as outras) não funcionavam.
+- Muda de Frostbite dava erro ao tentar crescer.
+- Boss Checklist: os itens de invocação apareciam sem a cor da raridade.
+- O Mágico dava erro ao ir embora no fim do dia (e, no multiplayer, a saída dele não chegava aos outros jogadores).
+- O clarão do tiro do Dazzler não seguia a transparência do próprio tiro.
+- Ajuste preventivo em chamadas que passavam argumentos a mais do que o celular espera: o fim da munição das armas de longo alcance (Glândula de Balão, Lava Blaster, Heartmelter, Tempestade Estelar, Flamaxe e outras), o Coração de Caranguejo e vários buffs (Metal Pesado, as posturas das armas pesadas, Observador de Estrelas, Vínculo Gelatinoso, os chás, Anel Derretido, Cura Gélida, Fúria Tóxica, Bênção do Piromante, Casa do Mal e debuffs de alguns inimigos).
+
+**Desempenho**
+- Dois caches internos se esvaziavam entre um quadro e outro e agora guardam o que deveriam: menos trabalho por jogador a cada quadro, principalmente no multiplayer.
+- As armas de munição do Split faziam o jogo passar por uma checagem extra de munição em todo tiro, de qualquer arma. Não fazem mais.
+
+## 1.0.3 - 2026-11-09 - Correções e desempenho
+
+Correções dos erros relatados na 1.0.2, incluindo o crash ao chamar chefes do jogo, e mais desempenho.
+
+**Desempenho**
+- Sistemas que antes rodavam o tempo todo agora só rodam quando são usados: acessórios de lacaios e sentinelas, a armadura do Observador de Estrelas, a Flandre, a Sobrecarga de Mana, os prefixos de armadura e a Armadura Possuída. Criar projéteis ficou mais leve em lutas com muitos tiros.
+
+**Correções**
+- Chamar a Plantera, o Golem ou outros chefes do jogo que criam partes (ganchos, mãos, cabeça) fechava o jogo.
+- Luva Gélida e Cetro Lacrimoso davam erro no primeiro tiro.
+- Starshroom dava erro com uma sentinela em campo.
+- Depois de enfrentar o One-Shot, os equipamentos davam um erro repetido sem parar.
+- Perto de bancadas de criação de mods aparecia um erro repetido sem parar.
+- O Colecionador podia dar erro ao fechar a troca.
+- Remendo Vermelho: o golpe extra não saía com armas corpo a corpo.
+
 ## 1.0.2 - 2026-11-08 - Correções e desempenho
 
-Uma revisão geral da beta: erros que apareciam jogando, armas fora do lugar e bastante desempenho, principalmente em celulares mais fracos e no multiplayer.
+Uma revisão geral da beta: correção de crashes e erros que apareciam jogando, armas fora do lugar e bastante desempenho, principalmente em celulares mais fracos e no multiplayer.
 
 **Novidades**
 - Suporte ao Boss Checklist: com o mod instalado, o Boss Log mostra The Spirit, One-Shot, Menace e Paraffin, e os minichefes Colosso, Breathtaker e Fairyfly, com como invocar, itens de invocação, mensagem de fuga e se já foram vencidos.
 
 **Desempenho**
 - Qualidade automática dos efeitos: quando o jogo cai de quadros, a quantidade de partículas, poeira e luzes do Split diminui sozinha e volta aos poucos quando o jogo se recupera.
-- Limite de poeira e de luzes criadas pelo Split por quadro, que acompanha a opção de intensidade dos efeitos visuais.
-- Cores e vetores fixos usados ao desenhar e criar partículas agora são criados uma vez só, em vez de a cada quadro.
-- Multiplayer: os dados do Split de cada jogador ficam guardados; antes eram procurados do zero várias vezes por quadro para cada outro jogador no mundo.
-- Tomo do Monólito: a aura confere só o próprio jogador de cada celular, em vez de varrer todos os espaços de jogador.
-- Números aleatórios dos efeitos (poeira, faíscas, tiros espalhados) gerados no próprio mod, sem ir ao jogo a cada número.
-- Relíquias de chefe desenham com metade das idas ao jogo; os efeitos dos projéteis do Spirit usam a posição da tela guardada no tick.
-- Tarefas do jogador que só precisam de conferência de vez em quando (fotografia, solo glacial, inimigos de bioma) deixaram de rodar a cada quadro; o bônus do Crab Rave saiu de um gancho que rodava para todo item.
-- Pet Master Spirit: o desenho reaproveita posições, cores e recortes em vez de criar tudo de novo a cada quadro.
-- Serpentes de ossos da Paraffin: o corpo segue a cabeça com bem menos idas ao jogo por segmento.
-- Pedaços do Céu (Bit of Sky) no chão só brilham perto da tela.
-- Botões de toque do Split (ação secundária, Coveiro, Contraptionista, Alternador) conferem primeiro o que é barato, e as armaduras só leem o jogo quando o botão está apertado.
+- Limite de poeira e de luzes do Split por quadro, que acompanha a opção de intensidade dos efeitos visuais.
+- Multiplayer bem mais leve: cada jogador a mais no mundo pesa muito menos do que antes.
+- Menos peso a cada quadro em efeitos de partículas, relíquias de chefe, projéteis do Spirit, pet Master Spirit, serpentes de ossos da Paraffin, Pedaços do Céu no chão, botões de toque e acessórios e armaduras que só precisam conferir algo de vez em quando.
+- Tomo do Monólito: a aura ficou mais leve no multiplayer.
 
 **Correções**
+- Abrir o menu de casas com a Menace (o espírito preso na corrente) fechava o jogo. Os NPCs do Split que não são moradores (Menace, Pessoa Ameaçadora, Twilight Walker e os do Spirit e da Paraffin) não aparecem mais no menu de casas.
+- Salvar o mundo podia dar erro por causa das bandeiras dos NPCs do Split.
+- The Spirit, Menace e Breathtaker agora vão embora quando você morre (antes ficavam no mundo). O Spirit também some se você se afastar demais, como no Split.
 - Armas que ficavam separadas da mão, à frente do jogador: Oscilação Ártica, Ruptura Venenosa, Lança de Zircão, Faca Cerimonial, Chikage, Alternador, Foguete Meteorológico, Olho de Belial, Rifle Fotográfico, Razzle-Dazzle, Leque de Flocos de Gelo e Tomo do Monólito.
 - Tempestade Estelar: o clarão do tiro não sai mais andando. Cajado Aracnídeo: o projétil segue a curva certa. As raquetes seguem o jogador sem se adiantar.
-- Ovelha montada: o corpo voltou a aparecer. A Ovelha de lã arco-íris não dá mais erro ao ser desenhada.
-- Hyperboloid (bola de beisebol), Supercrescimento (ataque secundário), Lâmina Flamejante e Tempestade Estelar/Flamaxe (projéteis perseguidores) davam erro ao serem usados.
-- A Máscara do Mal e a Máscara Vingadora davam erro a cada quadro; agora aumentam o dano de lacaio e a velocidade dos chicotes. O Sétimo Elemento tinha o mesmo erro no bônus durante o Enjoo de Poção.
+- Alho: voltou a ser arremessado e, jogado na Corrupção ou no Carmesim, chama o Twilight Walker como no Split.
+- Ovelha montada: o corpo voltou a aparecer. A Ovelha de lã arco-íris não dá mais erro.
+- Botão de felicidade dos NPCs do Split (Twilight Walker, Menace, Mágico e outros) mostrava um texto quebrado em vez da fala.
+- Biomas do Basaltite e do Navio Encalhado davam erro em alguns mundos.
+- Erros ao usar ou ao aparecer na tela: Investida do Ballistick, rastros de projéteis da Paraffin e dos lacaios, Hyperboloid (bola de beisebol), Supercrescimento (ataque secundário), Lâmina Flamejante, Tempestade Estelar e Flamaxe (projéteis perseguidores).
+- Erros repetidos sem parar: Máscara do Mal e Máscara Vingadora (agora aumentam o dano de lacaio e a velocidade dos chicotes) e Sétimo Elemento durante o Enjoo de Poção.
 - A Roda Lunar da Rocha Lunar não reconhecia a classe da arma.
 - O Leque de Flocos de Gelo não aplicava a pausa da regeneração de mana.
-
 
 ## 1.0.0 - 2026-11-01 - Beta: até a Paraffin
 
